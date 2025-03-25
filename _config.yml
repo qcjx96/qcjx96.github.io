@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://qcjx96.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: qcjx96 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: qcjxie # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Quincy X.
-  email: example@domain.com # change to your email address
+  email: qcjx96@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/qcjx96 # change to your GitHub homepage
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-25GVGYJERY # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: [light] # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
