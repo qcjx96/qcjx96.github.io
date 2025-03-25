@@ -16,10 +16,10 @@ timezone:
 
 title: Quincy X. # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A mouse who blogs about economics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My personal blog
+  Personal Blog of Quincy the Econ Mouse
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: "G-25GVGYJERY" # fill in your Google Analytics ID
+    id: G-25GVGYJERY # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
