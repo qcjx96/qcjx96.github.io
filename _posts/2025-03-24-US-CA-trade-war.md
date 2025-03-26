@@ -5,7 +5,9 @@ categories: [economics]
 tags: [trade war, Canada]
 ---
 
-Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be: for no good reason.
+<!-- # A prospectus on the Canada-US Trade War -->
+
+Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be for no good reason.
 
 His formal justifications are nebulous, but hover around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
 
@@ -68,7 +70,7 @@ Looking back over the past 25 years, there is a trend towards diversifying trade
 
 <figure>
     <figcaption align="center" style="font-size:16">
-        <b>Canadian Import Partners Shares</b>
+        <b>Shares of Imports to Canadian from Trade Partners</b>
     </figcaption>
         <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
@@ -78,7 +80,7 @@ There is also a trend of diversifying from US, but much less pronouced compared 
 
 <figure>
     <figcaption align="center" style="font-size:16">
-        <b>Canadian Export Partners Shares</b>
+        <b>Shares of Exports from Canada to Trade Partners</b>
     </figcaption>
         <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
@@ -105,11 +107,6 @@ figure img{width: 100%;}
     <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true' alt=''/>
 </figure>
 </div> -->
-
-
-
-
-
 
 <!--
 TODO:
