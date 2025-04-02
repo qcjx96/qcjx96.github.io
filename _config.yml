@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: QCX # the main title
 
-tagline: A mouse who blogs # it will display as the subtitle
+tagline: A corner of the internet where I rant # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal blog of QCX

@@ -2,7 +2,7 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [burnout, work, rant (blogging)]
+tags : [burnout, work]
 ---
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
@@ -34,3 +34,4 @@ Consumers make choices for example about how much goods they want to consume (wh
 
 These get pretty hard to solve if you have more than a couple equations representing the agents, so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I have developed a sort of distain for proprietary software in general. Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 
+[more to come]
