@@ -15,7 +15,7 @@ Canada's contribution to US border problem is negligeable. Less than xx% illegal
 
 The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [SOURCE]
 
-So why did he really start all this trouble? My favourite pet theory is that he did not like being [c**ked](https://www.urbandictionary.com/define.php?term=cucked) by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
+So why did he really start all this trouble? My favourite pet theory is that he did not like being cucked by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
 It goes back to a G7 summit in 2019, where a photo of Trudeau kissing First Lady Melania Trump, who was holding the oblivious President's hand, went viral. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
 

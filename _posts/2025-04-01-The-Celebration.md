@@ -11,7 +11,7 @@ But I haven't had a drink for more than three weeks now. This is the longest tim
 
 I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
 
-So instead I went for a walk. I wanted to talk to someone, and I thought about messaging this woman I had a threesome with after a kinksters' pub night in Amsterdam.
+So instead I went for a walk. I wanted to talk to someone, and I thought about messaging this woman I had a threesome with after a [munch](https://en.wikipedia.org/wiki/Munch_(BDSM)) in Amsterdam.
 
 "Hey, how are you? How's the burnout?" I thought of writing.
 
