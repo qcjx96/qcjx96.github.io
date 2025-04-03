@@ -2,7 +2,7 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [burnout, work]
+tags : [burnout, work, rant]
 ---
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
@@ -32,6 +32,6 @@ What the hell even is a CGEM? Luckily, I just explained this to my non-economics
 
 Consumers make choices for example about how much goods they want to consume (which determines the demand of goods), and how much they want to work to be able to afford consuming those goods (which determines the the labour supply). Producers choose how many workers they need to hire (labour demand), and perhaps factor goods, they want to use to the produce final goods for consumers (supply of goods). Then you make markets clear by making supply equal demand, and bada-bing bada-bong, you've solved the equilibrium prices for goods and labour.
 
-These get pretty hard to solve if you have more than a couple equations representing the agents, so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I have developed a sort of distain for proprietary software in general. Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
+These get pretty hard to solve if you have more than a couple equations representing the agents, so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I've been developing a sort of disdain for proprietary software in general (looking at you, Stata). Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 
 More ranting to come.
