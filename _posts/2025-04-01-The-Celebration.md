@@ -9,15 +9,15 @@ I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) 
 
 But I haven't had a drink for more than three weeks now. This is the longest time I haven't had a drink in about three years, and the only stretch I haven't had a drink for more than three days.
 
-I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
+I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word ("sober," not the other one) the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
 
-So instead I went for a walk. I wanted to talk to someone, and I thought about messaging this girl I had a MFM with after a [munch](https://en.wikipedia.org/wiki/Munch_(BDSM)) in Amsterdam.
+So instead I went for a walk. I wanted to talk to someone, and I thought about messaging this girl I had a MFM with at a [munch](https://en.wikipedia.org/wiki/Munch_(BDSM)) in Amsterdam. We had drinks after. She talked about wanting the workout to get rid of her burnout. She worked in consulting.
 
 "Hey, how are you? How's the burnout?" I thought of writing.
 
 "I know this might be weird so please ignore if you're weirded out. But I just saw an insane movie, Festen by Thomas Vinterberg, and now I just want to talk to someone."
 
-But it was only getting to 10 AM on a Wednesday in Amsterdam, so I thought better than to send it. She probably already had enough to deal with at work.
+I thought better than to send it, since it was only getting to 10 AM on a Wednesday in Amsterdam. She probably already had enough to deal with.
 
 I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
 
