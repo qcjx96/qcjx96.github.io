@@ -5,6 +5,9 @@ categories: [economics]
 tags: [US-Canada, trade war, descriptives]
 ---
 
+<!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
+<!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
+
 Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be for no good reason.
 
 His formal justifications are nebulous at best, hovering around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
