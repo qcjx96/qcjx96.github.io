@@ -2,7 +2,7 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [burnout, work, nsfw]
+tags : [dogme, burnout, work, nsfw]
 ---
 
 
@@ -24,10 +24,10 @@ I thought better than to send it, since it was only getting to 10 AM on a Wednes
 
 I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
 
-Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far the work is going very slowly, but I think I am making progress.
+Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
 
 
-# Rant about work
+# The work
 
 My inital plan was to do a short research project on the US-Canadian trade war. The main methodology would be implementing a very simple computable egeneral equilibrium model (CGEM), which I think would be quite impressive given that I'm just a lowly pre-doc. But CGEMs turned out to be quite hard.
 
@@ -37,4 +37,4 @@ Consumers make choices for example about how much goods they want to consume (wh
 
 These get pretty hard to solve if you have more than a couple equations representing the agents, so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I've been developing a sort of disdain for proprietary software in general (looking at you, Stata). Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 
-More ranting to come.
+More to come.
