@@ -2,8 +2,10 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [burnout, work, rant]
+tags : [burnout, work, rant, nsfw]
 ---
+
+**Warning: NSFW content**
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
@@ -11,11 +13,13 @@ But I haven't had a drink for more than three weeks now. This is the longest tim
 
 I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word ("sober," not the other one) the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
 
-So instead I went for a walk. I wanted to talk to someone, and I thought about messaging the girl I had my first MFM with after a [munch](https://en.wikipedia.org/wiki/Munch_(BDSM)) in Amsterdam. We all grabbed a drink after. She talked about wanting the workout to get rid of her burnout. She worked in consulting.
+So instead I went for a walk. I wanted to talk to someone, and I thought about messaging the girl I had my first [MFM](http://mfm.urbanup.com/7159166) after meeting at a [munch](https://en.wikipedia.org/wiki/Munch_(BDSM)) in Amsterdam. We liked each other, she liked another guys also, and the guy and I got along.
+
+We all grabbed a drink after. She talked about wanting to fuck the burnout out of her. She worked in consulting.
 
 "Hey, how are you? How's the burnout?" I thought of writing.
 
-"I know this might be weird so please ignore if you're weirded out. But I just saw an insane movie, Festen by Thomas Vinterberg, and now I just want to talk to someone."
+"I know this might be weird so please ignore if you're weirded out. But I just saw an insane movie, 'Festen' by Thomas Vinterberg. And now I just want to talk to someone."
 
 I thought better than to send it, since it was only getting to 10 AM on a Wednesday in Amsterdam. She probably already had enough to deal with.
 
