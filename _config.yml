@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/qcjx96 # change to your GitHub homepage
-    - https://twitter.com/qcjxie # change to your Twitter homepage
+    # - https://twitter.com/qcjxie # change to your Twitter homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/qcjx96
     - https://www.linkedin.com/in/qcjx96
