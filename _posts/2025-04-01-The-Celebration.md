@@ -2,11 +2,15 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [dogme95, burnout, work]
+tags : [dogme95, burnout, work, explicit]
+math : true
+image :
+    path : https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7673-/zmxxJVXBv8FF43JFhwBV7UEOd6T0uC_original.jpg
+    alt: Christian from "The Celebration" holds up the two speeches
 ---
 
 
-**Warning: explicit content**
+<p style="color:MediumVioletRed;font-weight:bold;text-align: center;">{Explicit content}</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
