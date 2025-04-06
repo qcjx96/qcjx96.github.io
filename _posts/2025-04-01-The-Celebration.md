@@ -1,8 +1,8 @@
 ---
 title : The Celebration
 date : 2025-04-01
-categories : [journal]
-tags : [dogme95, burnout, work, explicit]
+categories : [personal]
+tags : [dogme95, burnout, general equilibrium]
 math : true
 image :
     path : https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7673-/zmxxJVXBv8FF43JFhwBV7UEOd6T0uC_original.jpg
@@ -10,7 +10,9 @@ image :
 ---
 
 
-<p style="color:MediumVioletRed;font-weight:bold;text-align: center;">{Explicit content}</p>
+# NSFW section
+
+<p style="color:MediumVioletRed;font-weight:bold;">{Warning: explicit content}</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
@@ -22,16 +24,16 @@ So instead I went for a walk. I wanted to talk to someone. I thought about messa
 
 "Hey, how are you? How's the burnout?" I thought of writing.
 
-"I know this might be weird so please ignore if you're weirded out. But I just saw an insane movie, 'Festen' by Thomas Vinterberg. And now I just want to talk to someone."
+"I know this might be weird, if so please ignore. But I just saw an insane movie, 'Festen' by Thomas Vinterberg. And now I just want to talk to someone."
 
 I thought better than to send it, since it was only getting to 10 AM on a Wednesday in Amsterdam. She probably already had enough to deal with.
 
 I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
 
+# Safe for work section
+
 Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
 
-
-# The work
 
 My inital plan was to do a short research project on the US-Canadian trade war. The main methodology would be implementing a very simple computable egeneral equilibrium model (CGEM), which I think would be quite impressive given that I'm just a lowly pre-doc. But CGEMs turned out to be quite hard.
 
