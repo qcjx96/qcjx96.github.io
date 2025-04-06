@@ -3,12 +3,15 @@ title: A prospectus on the Canada-US Trade War | Part 1
 date: 2025-03-24
 categories: [economics]
 tags: [US-Canada, trade war, descriptives]
+image:
+    path: https://external-preview.redd.it/C14bfx9nJDX3MQdf735wXg-qIsvc4gAjxjesPTgDq8E.jpg?width=1080&crop=smart&auto=webp&s=49af13c4bf2f90bb356db05ae3fbac80cf47831e
+    alt: Trudeau and Trump engage in underhand-arm-wrestle foreplay before the trade war.
 ---
 
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
 
-Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be for no good reason.
+Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be, simply, for no good reason.
 
 His formal justifications are nebulous at best, hovering around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
 
@@ -20,19 +23,12 @@ So why did he really start all this trouble? My favourite pet theory is that he 
 
 It goes back to a G7 summit in 2019, where a photo of Trudeau kissing First Lady Melania Trump, who was holding the oblivious President's hand, went viral. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
 
-<br>
-<div style="text-align: center; width: 100%;">
-<img src="https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4" alt="Justin Trudeau and Melania Trump stand next to Donald Trump in Biarritz, France, on 25 August. Photograph: Carlos Barría/Reuters" width="600"/>
-</div>
-<br>
+![Justin Trudeau and Melania Trump lean in for a kiss.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
+
 
 The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
 
-<br>
-<div style="text-align: center; width: 100%;">
-<img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
-</div>
-<br>
+![Ivanka looks at Trudeau with the Trump trademark fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC.
 
