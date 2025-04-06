@@ -168,9 +168,8 @@ $$
     \lambda
     =
     \frac{\alpha}{p} \frac{C^{\alpha - 1}}{L^\beta}
-    &=
+    =
     \frac{\beta}{w} \frac{C^\alpha}{L^{\beta + 1}}
-    \\
     \implies
     \frac{L}{C} &= \frac{\beta p}{\alpha w}
     \left(
@@ -179,12 +178,12 @@ $$
     \tag{MRS}
 \end{align*}
 $$
-This gives us a formula for the labour-consumption tradeoff:
+This gives us a formula for the optimal labour-consumption tradeoff:
 $$
-\begin{equation}
+\begin{align}
     L &= \frac{\beta p}{\alpha w} C.
     \tag{LCT}\label{eq:LCT}
-\end{equation}
+\end{align}
 $$
 
 With the budget constraint \eqref{eq:L3} and labour-consumption tradeoff \eqref{eq:LCT}, we have that
