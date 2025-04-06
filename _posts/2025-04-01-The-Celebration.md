@@ -121,7 +121,7 @@ $$
 <details>
 <summary>Solve for the optimal consumption demand and labour supply.</summary>
 
-For constrained maximization problems, we set up the [Langrangian function](https://en.wikipedia.org/wiki/Lagrange_multiplier)
+For constrained maximization problems, we set up the <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Langrangian</a> function
 $$
 \begin{equation}
     \mathcal{L} = u(C, L) + \lambda (\pi + w L - p C)
