@@ -79,9 +79,9 @@ $$
     &=
     A
     \left(\frac{w}{pA\theta} \right)^{(1 - \theta)\theta},
-    \\
+    \quad
     \pi^*
-    &=
+    =
     \left[
     p A
     \left(\frac{w}{pA\theta} \right)^{\theta}
@@ -139,7 +139,7 @@ $$
 $$
 Then we have that
 $$
-\begin{align*}
+\begin{align}
     \lambda
     =
     \frac{\alpha}{p} \frac{C^{\alpha - 1}}{L^\beta}
@@ -147,11 +147,11 @@ $$
     \frac{\beta}{w} \frac{C^\alpha}{L^{\beta + 1}}
     \implies
     C = \frac{\alpha w}{p \beta} L.
-\end{align*}
+\end{align}
 $$
 With the budget constraint, we have that
 $$
-\begin{align*}
+\begin{align}
     \pi + w L - p C
     =
     \pi
@@ -159,7 +159,7 @@ $$
         w - \frac{\alpha w}{p\beta}
     \right) L
     = 0.
-\end{align*}
+\end{align}
 $$
 Then the optimal labour supply and good demand are
 $$
@@ -171,11 +171,11 @@ $$
         \frac{p\beta}{(\alpha-p\beta) w}
     \right]
     ,
-    \\
+    \quad
     C^*
-    &=
+    =
     \frac{\alpha \pi}{(\alpha-p\beta)}.
-    \end{align}
+\end{align}
 $$
 
 
@@ -191,7 +191,7 @@ This is achieved under some equilibrium prices for goods and labour $ p^* $ and 
 
 We have that
 $$
-\begin{align*}
+\begin{align}
     Y^* = C^*
     &\implies
     A  \left(
@@ -220,14 +220,14 @@ $$
     \right]
     \\
     &\implies
-    % (Ap)^{1-\theta}
-    % \frac{\alpha A}{\alpha-p\beta}
-    % \left(
-    %     \frac{w}{\theta}
-    % \right)^{\theta}
+    (Ap)^{1-\theta}
+    \frac{\alpha A}{\alpha-p\beta}
+    \left(
+        \frac{w}{\theta}
+    \right)^{\theta}
     =
     \frac{\alpha w}{\alpha-p\beta}
-\end{align*}
+\end{align}
 $$
 
 ---
