@@ -11,8 +11,7 @@ image :
 
 
 # NSFW
-
-<p style="color:MediumVioletRed;font-weight:bold;">(Warning: explicit content)</p>
+<p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
@@ -277,8 +276,6 @@ $$
     \tag{relative price}
 \end{align}
 $$
-
----
 
 This is pretty much the simplest model of a production economy, and it has a nice, neat solution.
 
