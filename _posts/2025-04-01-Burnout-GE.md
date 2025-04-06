@@ -1,8 +1,8 @@
 ---
-title : The Celebration
+title : Burnout and General Equilibrium
 date : 2025-04-01
 categories : [personal, economics]
-tags : [dogme95, burnout, general equilibrium]
+tags : [dogme95, burnout, CGE]
 math : true
 image :
     path : https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7673-/zmxxJVXBv8FF43JFhwBV7UEOd6T0uC_original.jpg
