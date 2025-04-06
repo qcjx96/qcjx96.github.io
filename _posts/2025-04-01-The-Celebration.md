@@ -36,14 +36,16 @@ Anyway, I've been trying to start a research blog, which I could hopefully use f
 
 My inital plan was to do a short research project on the US-Canadian trade war. The main methodology would be implementing a very simple computable egeneral equilibrium model (CGEM), which I think would be quite impressive given that I'm just a lowly pre-doc. But CGEMs turned out to be quite hard.
 
-What the hell even is a CGEM? Luckily, I just explained this to my non-economics friend yesterday. General equilibrium models (the GEM in CGEM) are basically a toy model of the economy, represented using equations. You set up equations for household consumers and producers, and optionally, other agents like the government, central bank, and similar agents in foreign countries. But in the simplest models, the most important things are the consumers and producers.
+What the hell even is a CGEM? Luckily, I just explained this to my non-economics friend yesterday. General equilibrium models (the GEM in CGEM) are basically a toy model of the economy, represented with equations. You set up equations for household consumers and producers, and optionally, other agents like the government, central bank, and similar agents in foreign countries. But in the simplest models, the most important things are the consumers and producers.
 
 Consumers make choices for example about how much goods they want to consume (which determines the demand of goods), and how much they want to work to be able to afford consuming those goods (which determines the the labour supply). Producers choose how many workers they need to hire (labour demand), and perhaps factor goods, they want to use to the produce final goods for consumers (supply of goods). Then you make markets clear by making supply equal demand, and bada-bing bada-bong, you've solved the equilibrium prices for goods and labour.
 
-A simple GE model
---
+These models get pretty hard to solve analytically if you scale up in dimensions (with multiple agents and factors), so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I've been developing a sort of disdain for proprietary software in general (looking at you, Stata). Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 
-Just for "fun," let's look at a simple (but non-trivial) example.
+
+## A simple GE model
+
+Let's look at a simple example, just "for fun."
 
 ### Firms
 
@@ -265,7 +267,7 @@ $$
 
 </details>
 
-Solving for the prices relative to each other, we get in equilibrium that
+Then the relative prices in market equilibrium is
 $$
 \begin{align}
     \frac{w^*}{p^*}
@@ -278,6 +280,6 @@ $$
 
 ---
 
-These get pretty hard to solve if you have more than a couple equations representing the agents, so you use a computer. Hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s. But doing it this way is not interesting to me. I've been developing a sort of disdain for proprietary software in general (looking at you, Stata). Firstly, because of the time that you have to invest to learn how to work the outdated interface and syntax. And secondly, because it is not free, I usually have to steal it. For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
+This is pretty much the simplest model of a production economy, and it has a nice, neat solution.
 
 More to come.
