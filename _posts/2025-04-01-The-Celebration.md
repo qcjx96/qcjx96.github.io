@@ -10,7 +10,7 @@ image :
 ---
 
 
-# NSFW section
+# NSFW
 
 <p style="color:MediumVioletRed;font-weight:bold;">(Warning: explicit content)</p>
 
@@ -30,7 +30,7 @@ I thought better than to send it, since it was only getting to 10 AM on a Wednes
 
 I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
 
-# Safe for work section
+# Safe for work
 
 Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
 
