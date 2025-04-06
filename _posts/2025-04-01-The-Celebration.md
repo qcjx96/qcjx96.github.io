@@ -6,7 +6,7 @@ tags : [dogme, burnout, work, nsfw]
 ---
 
 
-**Warning: NSFW content**
+**Warning: explicit content**
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
