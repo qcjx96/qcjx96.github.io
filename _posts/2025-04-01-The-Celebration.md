@@ -183,6 +183,7 @@ $$
     \tag{LCT}\label{eq:LTC}
 \end{align*}
 $$
+
 With the budget constraint \eqref{eq:L3} and labour-consumption tradeoff \eqref{eq:LTC}, we have that
 $$
 \begin{align*}
