@@ -6,13 +6,13 @@ tags : [dogme95, burnout, general equilibrium]
 math : true
 image :
     path : https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7673-/zmxxJVXBv8FF43JFhwBV7UEOd6T0uC_original.jpg
-    alt: Christian from "The Celebration" holds up the two speeches
+    alt: Christian from "The Celebration" holds up two speeches
 ---
 
 
 # NSFW section
 
-<p style="color:MediumVioletRed;font-weight:bold;">{Warning: explicit content}</p>
+<p style="color:MediumVioletRed;font-weight:bold;">(Warning: explicit content)</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
