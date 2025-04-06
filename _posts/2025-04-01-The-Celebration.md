@@ -10,7 +10,9 @@ image :
 ---
 
 
-<p style="color:MediumVioletRed;font-weight:bold;text-align: center;">{Explicit content}</p>
+# NSFW section
+
+<p style="color:MediumVioletRed;font-weight:bold;">(Warning: explicit content)</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
 
@@ -28,10 +30,10 @@ I thought better than to send it, since it was only getting to 10 AM on a Wednes
 
 I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
 
+
+# Safe for work section
+
 Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
-
-
-# The work
 
 My inital plan was to do a short research project on the US-Canadian trade war. The main methodology would be implementing a very simple computable egeneral equilibrium model (CGEM), which I think would be quite impressive given that I'm just a lowly pre-doc. But CGEMs turned out to be quite hard.
 
@@ -49,47 +51,58 @@ Just for "fun," let's look at a simple (but non-trivial) example.
 Suppose the representative firm uses only labour $ L $ to produce goods $ Y $ with the production function:
 $$
 \begin{equation}
-    Y = f(L) = A L^\theta,
+    Y = f(L) = A L^\gamma,
+    \tag{production}
 \end{equation}
 $$
 
-where $ A $ is a productivity factor and $ \theta $ is a non-negative parameter. The firm maximizes profits
+where $ A $ is a productivity factor and $ \gamma $ is a non-zero parameter. The firm maximizes profits
 $$
 \begin{equation}
     \pi = p Y - w L,
+    \tag{profit}
 \end{equation}
 $$
 
 which is the revenues from production minus the cost of labour. When the profit function is maximized, its first-order derivative is zero:
 $$
 \begin{align*}
-    \frac{\partial \pi}{\partial L} = \theta A p L^{\theta-1} - w = 0.
+    \frac{\partial \pi}{\partial L} = \gamma A p L^{\gamma-1} - w = 0.
+    \tag{FOC}
 \end{align*}
 $$
 
 Then the firm's labour demand is
 $$
 \begin{align}
-    L_D^* = \left( \frac{w}{pA\theta} \right)^{1 - \theta},
+    L_D^* = \left(
+        \frac{w}{pA\gamma}
+    \right)^{1 - \gamma},
+    \tag{labour demand}
 \end{align}
 $$
 
-which gives optimal production (and supply of goods) and profits
+which gives optimal production and profits
 $$
 \begin{align}
     Y^*
     &=
     A
-    \left(\frac{w}{pA\theta} \right)^{(1 - \theta)\theta},
-    \quad
+    \left(
+            \frac{w}{pA\gamma}
+    \right)^{(1 - \gamma)\gamma},
+    \tag{goods supply}
+    \\
     \pi^*
-    =
+    &=
     \left[
-    p A
-    \left(\frac{w}{pA\theta} \right)^{\theta}
-    -
-    w\right]
-    \left( \frac{w}{pA\theta} \right)^{1 - \theta}.
+        p A
+        \left(\frac{w}{pA\gamma} \right)^{\gamma}
+        -
+        w
+    \right]
+    \left( \frac{w}{pA\gamma} \right)^{1 - \gamma}.
+    \tag{profit curve}
 \end{align}
 $$
 
@@ -99,11 +112,12 @@ $$
 The representative household chooses how much to work $L$ and how much to consume $C$ to maxmize their utility function
 $$
 \begin{equation}
-u(C, L) = \frac{C^\alpha}{L^\beta},
+    u(C, L) = \frac{C^\alpha}{L^\beta},
+    \quad
+    \alpha, \beta > 0.
+    \tag{utility}
 \end{equation}
 $$
-
-where $ \alpha $ and $ \beta $ are non-negative parameters. 
 
 Assume that all profits made by the firm $ \pi $ are distributed to the household, though the households cannot directly control the firm's decisions (and therefore profit), so they take $ \pi $ as granted.
 
@@ -113,16 +127,18 @@ Since we are in a one-period model, let's assume that the household consumes all
 $$
 \begin{equation}
     p C = \pi + w L.
+    \tag{budget constraint}
 \end{equation}
 $$
 
 <details>
-<summary>Solve for the optimal consumption demand and labour supply.</summary>
+<summary>We solve for optimal consumption demand and labour supply (toggle ▶ for details).</summary>
 
-For constrained maximization problems, we set up the [Langrangian function](https://en.wikipedia.org/wiki/Lagrange_multiplier)
+For constrained maximization problems, we set up the <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Langrangian function</a>
 $$
 \begin{equation}
     \mathcal{L} = u(C, L) + \lambda (\pi + w L - p C)
+    \tag{Lagrangian}
 \end{equation}
 $$
 and the first-order derivatives with respect to the control variables ($ C, L $) and the Lagrange $ \lambda $. The first order conditions are
@@ -132,115 +148,131 @@ $$
     &=
     \alpha \frac{C^{\alpha - 1}}{L^\beta} - \lambda p
     = 0,
+    \tag{$\mathcal{L}1$}\label{eq:L1}
     \\  
     \frac{\partial \mathcal{L}}{\partial L}
     &=
     -\beta \frac{C^\alpha}{L^{\beta + 1}} + \lambda w
     = 0,
+    \tag{$\mathcal{L}2$}\label{eq:L2}
     \\
     \frac{\partial \mathcal{L}}{\partial \lambda}
     &=
     \pi + w L - p C
     = 0.
+    \tag{$\mathcal{L}3$}\label{eq:L3}
 \end{align}
 $$
-Then we have that
+Then we have from \eqref{eq:L1} and \eqref{eq:L2} that
 $$
-\begin{align}
+\begin{align*}
     \lambda
     =
     \frac{\alpha}{p} \frac{C^{\alpha - 1}}{L^\beta}
-    =
+    &=
     \frac{\beta}{w} \frac{C^\alpha}{L^{\beta + 1}}
+    \\
     \implies
-    C = \frac{\alpha w}{p \beta} L.
-\end{align}
+    \frac{L}{C} &= \frac{\beta p}{\alpha w}
+    \left(
+        =\frac{u_C}{u_L}
+    \right)
+    \tag{MRS}
+    \\
+    \implies
+    L &= \frac{\beta p}{\alpha w} C.
+    \tag{LCT}\label{eq:LTC}
+\end{align*}
 $$
-With the budget constraint, we have that
+With the budget constraint \eqref{eq:L3} and labour-consumption tradeoff \eqref{eq:LTC}, we have that
 $$
-\begin{align}
+\begin{align*}
     \pi + w L - p C
     =
     \pi
-    + \left(
-        w - \frac{\alpha w}{p\beta}
-    \right) L
+    + w \left(
+        \frac{\beta p}{\alpha w}
+    \right) C - pC
     = 0.
-\end{align}
+\end{align*}
 $$
 
 </details>
 
-The optimal labour supply and good demand are then
+Solving for consumption, we get
 $$
-\begin{align}
-    L_S^*
-    &=
-    \pi
-    \left[
-        \frac{p\beta}{(\alpha-p\beta) w}
-    \right]
-    ,
-    \quad
-    C^*
-    =
-    \frac{\alpha \pi}{(\alpha-p\beta)}.
-\end{align}
+\begin{equation}
+    C^* = \frac{\pi}{p}\frac{\alpha}{\alpha-\beta}.
+    \tag{goods demand}
+\end{equation}
 $$
+Then plugging back into the \eqref{eq:LTC}, we get
+$$
+\begin{equation}
+    L_S^* = \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
+    \tag{labour supply}
+\end{equation}
+$$
+
 
 ### Market equilibrium
 
 The market clears when demand equals supply for goods and labour:
 $$
-\begin{align}
-    Y^* = C^*, \quad L_D^* = L_S^*
-\end{align}
+\begin{equation*}
+    Y^* = C^*, \quad L_D^* = L_S^*.
+\end{equation*}
 $$
-This is achieved under some equilibrium prices for goods and labour $ p^* $ and $ w^* $.
 
 <details>
+<summary>We solve for the relative prices of labour and goods (toggle ▶ for details).</summary>
 We have that
 $$
-\begin{align*}
+\begin{align}
     Y^* = C^*
-    &\implies
-    A  \left(
-            \frac{w}{pA\theta}
-        \right)^{(1 - \theta)\theta}
-    =
-    \frac{\alpha \pi^*}{(\alpha-p\beta)}
-    =
-    \frac{\alpha
-        \left[
-            p A\left(\frac{w}{pA\theta} \right)^{\theta}-w
-        \right]
-        \left(
-            \frac{w}{pA\theta}
-        \right)^{1 - \theta}}{(\alpha-p\beta)}
-    \\
-    &\implies
-    \frac{w}{p\theta}
-    =
-    \frac{\alpha}{\alpha-p\beta}
-    \left[
-        (p A)^{1-\theta}
-        \left(
-            \frac{w}{\theta}
-        \right)^{\theta}-w
-    \right]
-    \\
-    &\implies
-    (Ap)^{1-\theta}
-    \frac{\alpha A}{\alpha-p\beta}
+    \quad\iff\quad
+    A
     \left(
-        \frac{w}{\theta}
-    \right)^{\theta}
-    =
-    \frac{\alpha w}{\alpha-p\beta}
+            \frac{w}{pA\gamma}
+    \right)^{(1 - \gamma)\gamma}
+    &=
+    \frac{\pi}{p}\frac{\alpha}{\alpha-\beta},
+    \tag{E1}\label{eq:E1}
+    \\
+    L_D^* = L_S^*
+    \quad\iff\quad
+    \left(
+        \frac{w}{pA\gamma}
+    \right)^{1 - \gamma}
+    &=
+    \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
+    \tag{E2}\label{eq:E2}
+\end{align}
+$$
+Dividing \eqref{eq:E1} by \eqref{eq:E2} gives us
+$$
+\begin{align*}
+    A
+    \left(
+        \frac{w}{pA\gamma}
+    \right)^{\gamma}
+    &=
+    \frac{w}{p}\frac{\alpha}{\beta}.
 \end{align*}
 $$
 
 </details>
+
+Solving for the prices relative to each other, we get in equilibrium that
+$$
+\begin{align}
+    \frac{w^*}{p^*}
+    = A \left(
+        \frac{\alpha}{\beta}
+    \right)^{1-\gamma}.
+    \tag{relative price}
+\end{align}
+$$
 
 ---
 
