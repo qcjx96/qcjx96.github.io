@@ -277,6 +277,6 @@ $$
 \end{align}
 $$
 
-This is pretty much the simplest model of a production economy, and it has a nice, neat solution.
+This is pretty much the simplest model of a production economy. And it has a nice, neat solution.
 
 More to come.
