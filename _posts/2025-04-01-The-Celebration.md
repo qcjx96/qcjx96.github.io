@@ -2,7 +2,7 @@
 title : The Celebration
 date : 2025-04-01
 categories : [journal]
-tags : [dogme, burnout, work, nsfw]
+tags : [dogme, burnout, work]
 ---
 
 
