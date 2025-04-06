@@ -45,13 +45,15 @@ To understand how Canada's trade balance might evolve under the tariffs, let's f
 In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland](https://www.gov.uk/eu-eea) (EEA+ for short; these are pretty much the Western European countries) totaled $103 billion, less than a third of US imports. After the US, China is the next largest single-country import partner to Canada at $88 billion.
 
 __Canada's Top Import Partners (2024)__
-![Canada's top ten import partners in 2024. US is largest at 360 million Canadian dollars, about half of all 744 billion dollars Canadian imports.](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners.png?raw=true)
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners.png?raw=true){: .light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners-dark.png?raw=true){: .dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 About three-quarters of total Canadian exports ($751 billion) went to the US ($569 billion), dwarfing Western Europe's $70 billion. The next largest single-country export partners are China and UK, receiving a little less than $30 billion of Canadian exports in each country.
 
 __Canada's Top Export Partners (2024)__
-![Canada's top ten export partners in 2024. US is largest at 569 million Canadian dollars, about three-quarters of all 751 billion dollars Canadian exports.](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true)
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true){: .light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners-dark.png?raw=true){: .dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
@@ -59,7 +61,8 @@ Looking at trade through time, the share of US import to Canada has dropped by a
 
 
 __Shares of Imports to Canada from Trade Partners__
-![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true)
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true){: .light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare-dark.png?raw=true){: .dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
@@ -67,11 +70,27 @@ The share of Canadian exports to the US has also dropped about 11 percentage poi
 
 
 __Shares of Exports from Canada to Trade Partners__
-![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare.png?raw=true)
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare.png?raw=true){:.light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare-dark.png?raw=true){:.dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
-I also plan to update this post with figures breaking down trade by sectors and provinces.
+Here is a by sector breakdown. I will say more about this later.
+
+__Imports by Sector (2024)__
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-imports.png?raw=true){:.light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-imports-dark.png?raw=true){:.dark}
+<small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
+
+
+__Exports by Sector (2024)__
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-exports.png?raw=true){:.light}
+![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-exports-dark.png?raw=true){:.dark}
+<small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
+
+I also plan to update this post with figures breaking down trade by provinces.
+
+
 
 Canada's trade reliance on the US is starkly clear, especially in terms of exports. Trump's tariffs will take a large toll on producers in Canadian export industries, which will likely translate to a contraction in the economy (i.e. recession) and job losses. Canada's reliatory tariffs against the US will also raise prices for certain goods, though they are likely our most effective bargaining chip to negotiate an end to Trump's unsolicited trade war (short of agreeing to annexation). These are the direct effects of the tariffs, which will propogate to the rest of the economy as well.
 

@@ -82,7 +82,6 @@ $$
     \tag{labour demand}
 \end{align}
 $$
-
 which gives optimal production and profits
 $$
 \begin{align}
@@ -203,14 +202,14 @@ $$
 
 </details>
 
-Solving for consumption, we get
+Then the goods demand curve is
 $$
 \begin{equation}
     C^* = \frac{\pi}{p}\frac{\alpha}{\alpha-\beta}.
     \tag{goods demand}
 \end{equation}
 $$
-Then plugging back into the \eqref{eq:LCT}, we get
+Plugging $C^*$ into \eqref{eq:LCT} gets us the labour supply curve:
 $$
 \begin{equation}
     L_S^* = \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
@@ -240,7 +239,7 @@ $$
             \frac{w}{pA\gamma}
     \right)^{(1 - \gamma)\gamma}
     &=
-    \frac{\pi}{p}\frac{\alpha}{\alpha-\beta},
+    \frac{\pi^*}{p}\frac{\alpha}{\alpha-\beta},
     \tag{E1}\label{eq:E1}
     \\
     L_D^* = L_S^*
@@ -249,7 +248,7 @@ $$
         \frac{w}{pA\gamma}
     \right)^{1 - \gamma}
     &=
-    \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
+    \frac{\pi^*}{w}\frac{\beta}{\alpha-\beta}.
     \tag{E2}\label{eq:E2}
 \end{align}
 $$
@@ -267,7 +266,7 @@ $$
 
 </details>
 
-Then the relative prices in market equilibrium is
+Finally, the relative prices in market equilibrium is then
 $$
 \begin{align}
     \frac{w^*}{p^*}
