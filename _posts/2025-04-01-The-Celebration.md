@@ -10,7 +10,7 @@ image :
 ---
 
 
-# NSFW
+# Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
 
 I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
@@ -27,10 +27,11 @@ So instead I went for a walk. I wanted to talk to someone. I thought about messa
 
 I thought better than to send it, since it was only getting to 10 AM on a Wednesday in Amsterdam. She probably already had enough to deal with.
 
-I'm dealing with some burnout of my own. Ever since I'd gotten home (and stopped drinking), I have been anxious about being productive. (But sometimes, like now, I also just don't want to work. I can feel it in my body and my brain. And this makes me more anxious, and probably a manifestation of burnout syndrome. So instead of working, I'm blogging.)
+I'm dealing with some burnout of my own. Ever since I'd gotten home, I've been anxious to be productive. But sometimes, like now, I also just don't want to work. I can feel it in my body and my mind. And this makes me more anxious, and probably is a manifestation of burnout syndrome. So here I am, blogging.
 
 
-# Safe for work
+# Progress on work
+<p style="color:DarkCyan;font-weight:bold;">(Safe content)</p>
 
 Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
 
