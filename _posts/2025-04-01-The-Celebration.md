@@ -60,20 +60,14 @@ $$
 \end{equation}
 $$
 
-which is the revenues from production minus the cost of labour.
-
-<details>
-
-When profit is maximized, its first-order derivative is zero, so
+which is the revenues from production minus the cost of labour. When the profit function is maximized, its first-order derivative is zero:
 $$
-\begin{align}
+\begin{align*}
     \frac{\partial \pi}{\partial L} = \theta A p L^{\theta-1} - w = 0.
-\end{align}
+\end{align*}
 $$
 
-</details>
-
-The firm's labour demand is then
+Then the firm's labour demand is
 $$
 \begin{align}
     L_D^* = \left( \frac{w}{pA\theta} \right)^{1 - \theta},
@@ -115,7 +109,7 @@ Assume that all profits made by the firm $ \pi $ are distributed to the househol
 
 The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $ p C \le \pi + w L$, where $p$ is the price of goods and $w$ is the wage rate.
 
-Since we are in a one-period model, let's assume that the household will consume all their income, so that
+Since we are in a one-period model, let's assume that the household consumes all their income, so that
 $$
 \begin{equation}
     p C = \pi + w L.
@@ -123,6 +117,7 @@ $$
 $$
 
 <details>
+<summary>Solve for the optimal consumption demand and labour supply.</summary>
 
 For constrained maximization problems, we set up the [Langrangian function](https://en.wikipedia.org/wiki/Lagrange_multiplier)
 $$
