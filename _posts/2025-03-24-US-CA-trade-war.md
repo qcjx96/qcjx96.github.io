@@ -75,7 +75,7 @@ __Shares of Exports from Canada to Trade Partners__
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
-Here is a by sector breakdown. I will say more about this later.
+Here is a by sector breakdown. I will say more about these later.
 
 __Imports by Sector (2024)__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-imports.png?raw=true){:.light}
