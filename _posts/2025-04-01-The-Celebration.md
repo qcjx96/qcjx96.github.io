@@ -177,14 +177,17 @@ $$
         =\frac{u_C}{u_L}
     \right)
     \tag{MRS}
-    \\
-    \implies
-    L &= \frac{\beta p}{\alpha w} C.
-    \tag{LCT}\label{eq:LTC}
 \end{align*}
 $$
+This gives us a formula for the labour-consumption tradeoff:
+$$
+\begin{equation}
+    L &= \frac{\beta p}{\alpha w} C.
+    \tag{LCT}\label{eq:LCT}
+\end{equation}
+$$
 
-With the budget constraint \eqref{eq:L3} and labour-consumption tradeoff \eqref{eq:LTC}, we have that
+With the budget constraint \eqref{eq:L3} and labour-consumption tradeoff \eqref{eq:LCT}, we have that
 $$
 \begin{align*}
     \pi + w L - p C
@@ -206,7 +209,7 @@ $$
     \tag{goods demand}
 \end{equation}
 $$
-Then plugging back into the \eqref{eq:LTC}, we get
+Then plugging back into the \eqref{eq:LCT}, we get
 $$
 \begin{equation}
     L_S^* = \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
