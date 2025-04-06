@@ -1,7 +1,7 @@
 ---
 title : The Celebration
 date : 2025-04-01
-categories : [personal]
+categories : [personal, economics]
 tags : [dogme95, burnout, general equilibrium]
 math : true
 image :
@@ -55,7 +55,7 @@ $$
 \end{equation}
 $$
 
-where $ A $ is a productivity factor and $ \theta $ is a non-negative parameter. The firm maximizes profits
+where $ A $ is a productivity scalar and $ \theta $ is a non-zero parameter. The firm maximizes profits
 $$
 \begin{equation}
     \pi = p Y - w L,
