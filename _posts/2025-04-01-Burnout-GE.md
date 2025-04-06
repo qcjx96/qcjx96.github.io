@@ -1,5 +1,6 @@
 ---
 title : Burnout and General Equilibrium
+description : I can't sleep so I'm going to rant.
 date : 2025-04-01
 categories : [personal, economics]
 tags : [dogme95, burnout, CGE]
