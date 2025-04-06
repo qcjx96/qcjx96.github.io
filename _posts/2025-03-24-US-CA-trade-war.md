@@ -1,5 +1,5 @@
 ---
-title: A prospectus on the Canada-US Trade War | Part 1
+title: Prospectus on the US-Canada Trade War | Part 1
 date: 2025-03-24
 categories: [economics]
 tags: [US-Canada, trade war, descriptives]
