@@ -45,33 +45,41 @@ A simple GE model
 Just for "fun," let's look at a simple (but non-trivial) example.
 
 ### Firms
+
 Suppose the representative firm uses only labour $ L $ to produce goods $ Y $ with the production function:
 $$
 \begin{equation}
     Y = f(L) = A L^\theta,
 \end{equation}
 $$
+
 where $ A $ is a productivity factor and $ \theta $ is a non-negative parameter. The firm maximizes profits
 $$
 \begin{equation}
     \pi = p Y - w L,
 \end{equation}
 $$
+
 which is the revenues from production minus the cost of labour.
+
+<details>
 
 When profit is maximized, its first-order derivative is zero, so
 $$
 \begin{align}
-    \frac{\partial \pi}{\partial L} = A  L^{-\gamma} - w = 0.
+    \frac{\partial \pi}{\partial L} = \theta A p L^{\theta-1} - w = 0.
 \end{align}
 $$
 
-The firm's labour demand is then,
+</details>
+
+The firm's labour demand is then
 $$
 \begin{align}
     L_D^* = \left( \frac{w}{pA\theta} \right)^{1 - \theta},
 \end{align}
 $$
+
 which gives optimal production (and supply of goods) and profits
 $$
 \begin{align}
@@ -100,16 +108,21 @@ $$
 u(C, L) = \frac{C^\alpha}{L^\beta},
 \end{equation}
 $$
+
 where $ \alpha $ and $ \beta $ are non-negative parameters. 
 
 Assume that all profits made by the firm $ \pi $ are distributed to the household, though the households cannot directly control the firm's decisions (and therefore profit), so they take $ \pi $ as granted.
 
-The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $ p C \le \pi + w L$, where $p$ is the price of goods and $w$ is the wage rate. Since we are in a one-period model, let's assume that the household will consume all their income, so that
+The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $ p C \le \pi + w L$, where $p$ is the price of goods and $w$ is the wage rate.
+
+Since we are in a one-period model, let's assume that the household will consume all their income, so that
 $$
 \begin{equation}
     p C = \pi + w L.
 \end{equation}
 $$
+
+<details>
 
 For constrained maximization problems, we set up the [Langrangian function](https://en.wikipedia.org/wiki/Lagrange_multiplier)
 $$
@@ -118,7 +131,6 @@ $$
 \end{equation}
 $$
 and the first-order derivatives with respect to the control variables ($ C, L $) and the Lagrange $ \lambda $. The first order conditions are
-
 $$
 \begin{align}
     \frac{\partial \mathcal{L}}{\partial C}
@@ -161,7 +173,10 @@ $$
     = 0.
 \end{align}
 $$
-Then the optimal labour supply and good demand are
+
+</details>
+
+The optimal labour supply and good demand are then
 $$
 \begin{align}
     L_S^*
@@ -178,7 +193,6 @@ $$
 \end{align}
 $$
 
-
 ### Market equilibrium
 
 The market clears when demand equals supply for goods and labour:
@@ -189,9 +203,10 @@ $$
 $$
 This is achieved under some equilibrium prices for goods and labour $ p^* $ and $ w^* $.
 
+<details>
 We have that
 $$
-\begin{align}
+\begin{align*}
     Y^* = C^*
     &\implies
     A  \left(
@@ -227,8 +242,10 @@ $$
     \right)^{\theta}
     =
     \frac{\alpha w}{\alpha-p\beta}
-\end{align}
+\end{align*}
 $$
+
+</details>
 
 ---
 
