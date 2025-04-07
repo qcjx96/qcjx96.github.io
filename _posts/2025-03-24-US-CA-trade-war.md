@@ -1,12 +1,12 @@
 ---
 title : Prospectus on the US-Canada Trade War | Part 1
-description : Some descriptive data on US-Canada trade relations and my pet theory on why Trump has a hard-on for Canada.
+description : My pet theory on why Trump has a hard-on for Canada and some descriptive data.
 date: 2025-03-24
 categories: [economics]
 tags: [US-Canada, trade war, descriptives]
 image:
     path: https://external-preview.redd.it/C14bfx9nJDX3MQdf735wXg-qIsvc4gAjxjesPTgDq8E.jpg?width=1080&crop=smart&auto=webp&s=49af13c4bf2f90bb356db05ae3fbac80cf47831e
-    alt: Trump and Trudeau engage in hand-shake/wrestle foreplay in prelude to the trade war.
+    alt: Trump and Trudeau engage in hand-shake wrestling.
 ---
 
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
