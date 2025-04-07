@@ -18,7 +18,9 @@ His formal justifications are nebulous at best, hovering around border security 
 
 Canada's part in US border problem is negligeable. Last year, less than [one-tenth of illegal migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/) and [less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border. Almost a rounding error. US trade deficit with Canada is also less than [one-fifth that of China and the EU](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_the_United_States).
 
-So why did he really start all this trouble? My favourite pet theory is that he did not like being cucked by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
+So why did he really start all this trouble? My favourite pet theory is that he did not like being cuckolded by Justin Trudeau.
+
+<!-- Though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3). -->
 
 It goes back to a G7 summit in 2019, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
