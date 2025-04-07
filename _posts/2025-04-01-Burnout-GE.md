@@ -14,11 +14,11 @@ image :
 # Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
 
-I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish). A Freemason invites a large group of family and friends to the family hotel for his sixtieth birthday. At the dinner, his son makes a speech about how his father raped him and his dead sister when they were kids.
+I just finished Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish), the first film in the [Dogme](https://youtu.be/RtsP_dKm9M8?si=2fsqBTOy7zn_kvg5) movement. A Freemason hosts a large gathering at the family hotel for his sixtieth birthday. At the dinner, his son makes a speech about how his father raped him and his dead sister when they were kids.
 
 Now I want a drink.
 
-I haven't had a drink for more than three weeks now. This is the longest time I haven't had a drink in about three years, and the only stretch I haven't had a drink for more than three days.
+I haven't had a drink for more than three weeks now. This is the longest time I haven't had a drink in about three years, and probably the only stretch longer than a week.
 
 I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word ("sober," not the other one) the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
 
