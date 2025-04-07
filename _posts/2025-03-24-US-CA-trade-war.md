@@ -1,6 +1,6 @@
 ---
 title : Prospectus on the US-Canada Trade War | Part 1
-description : Some preliminary graphs and my pet theory on why Trump targeted Canada.
+description : Some descriptive data on US-Canada trade relations and my pet theory on why Trump targeted Canada.
 date: 2025-03-24
 categories: [economics]
 tags: [US-Canada, trade war, descriptives]

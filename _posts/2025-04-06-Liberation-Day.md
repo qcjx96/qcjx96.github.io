@@ -7,4 +7,5 @@ image :
     alt : Trump holds up tariff poster like a kid showing off his piece-of-shit school project.
 ---
 
+<center><b>(Coming soon)</b></center>
 
