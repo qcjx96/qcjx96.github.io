@@ -22,7 +22,7 @@ The trade deficit with Canada is dwarfed by those of other US trade partners lik
 
 So why did he really start all this trouble? My favourite pet theory is that he did not like being cucked by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
-It goes back to a G7 summit in 2019, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One (of course) French news outlet lead their report on this exchange with the title, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
+It goes back to a G7 summit in 2019, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
 ![Justin Trudeau and Melania Trump lean in for a kiss with Trump obliviously unaware of the seduction.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
 
