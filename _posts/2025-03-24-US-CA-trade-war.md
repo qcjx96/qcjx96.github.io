@@ -69,14 +69,13 @@ __Shares of Imports to Canada from Trade Partners__
 
 The share of Canadian exports to the US has also dropped about 11 percentage points (from ~88% to ~77%). The good news is that we appear to have been steadily diversifying from trade with the US. The bad news is that even though we are near historic-lows in reliance on US for trade, and we are still quite reliant. But that's what happens when you have the largest consumer economy in the world as your next-door neighbour.
 
-
 __Shares of Exports from Canada to Trade Partners__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare.png?raw=true){:.light}
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare-dark.png?raw=true){:.dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
-## Canadian Trade Industries
+## Canada's Trade Sectors
 
 Here is a by-sector breakdown. I will say more about these later. I also plan to update this post with figures breaking down trade by provinces.
 
@@ -93,12 +92,11 @@ __Exports by Sector (2024)__
 
 ---
 
-Canada's trade reliance on the US is starkly clear, especially in terms of exports. Trump's tariffs will take a large toll on producers in Canadian export industries, which will likely translate to a contraction in the economy (i.e. recession) and job losses. Canada's reliatory tariffs against the US will also raise prices for certain goods, though they are likely our most effective bargaining chip to negotiate an end to Trump's unsolicited trade war (short of agreeing to annexation). These are the direct effects of the tariffs, which will propogate to the rest of the economy as well.
+Canada's trade reliance on the US is stark, especially in terms of exports. Trump's tariffs will take a large toll on producers in Canadian export industries, which will likely translate to a contraction in the economy (i.e. recession) and job losses. Canada's counter-tariffs against the US will also raise prices for the targeted goods, though they are likely our most effective bargaining chip to negotiate an end to Trump's unsolicited trade war (short of agreeing to annexation). These are the direct effects of the tariffs, which will propogate to other aspects of the economy as well.
 
-Mark Carney's [visit to Europe](https://www.nytimes.com/2025/03/17/world/canada/canada-trump-carney-europe.html) after being sworn in as Prime Minister was a nice gesture for taking action to mitigate the damage that will ensue, but Europe cannot absorb anywhere close to US's demand for Canadian goods. Carney is also campaigning with [a plan to remove interprovincial trade barriers](https://markcarney.ca/one-canadian-economy) within Canada. I'm currently looking into the papers he cited for further analysis on the trade war, but so far I'm skeptical that these efforts will offset trade shocks enough so that we will not feel some hurt in the short term.
+Mark Carney's [visit to Europe](https://www.nytimes.com/2025/03/17/world/canada/canada-trump-carney-europe.html) after being sworn in as Prime Minister was a gesture to show his initiative in mitigating the damage that has ensued, but it's clear that Europe cannot absorb anywhere close to US's demand for Canadian goods. Carney is also campaigning with [a plan to remove interprovincial trade barriers](https://markcarney.ca/one-canadian-economy) within Canada. I'm currently looking into the papers cited in the plan, but so far I'm skeptical that significant pains in the short term can be avoided. However, a detox from US trade was probably overdue. These plans to strengthen non-US trade relations and reduce internal trade barriers will pay dividends in the future.
 
-I'm not going to lie, the prognosis looks quite grim. But exactly how bad could it be? My next post in this series will be a foray into general equilibrium modeling, which could illustrate the effects of the trade war on the economies overall.
-
+But I will not lie, the current prognosis looks quite grim. Exactly how bad will it be? More to come in this series.
 
 <!-- 
 <style>
