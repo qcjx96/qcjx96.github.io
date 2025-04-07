@@ -14,7 +14,7 @@ image :
 # Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
 
-I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish). A Freemason invites a large group of family and friends to the family hotel for his sixtieth birthday. His son makes a speech about how his father raped him and his dead sister when they were kids.
+I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish). A Freemason invites a large group of family and friends to the family hotel for his sixtieth birthday. At the dinner, his son makes a speech about how his father raped him and his dead sister when they were kids.
 
 Now I want a drink.
 
