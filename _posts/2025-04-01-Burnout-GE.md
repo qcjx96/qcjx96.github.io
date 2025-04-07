@@ -226,9 +226,10 @@ $$
 
 The market clears when demand equals supply for goods and labour:
 $$
-\begin{equation*}
+\begin{equation}
     Y^* = C^*, \quad L_D^* = L_S^*.
-\end{equation*}
+    \tag{market clearing}
+\end{equation}
 $$
 
 <details>
