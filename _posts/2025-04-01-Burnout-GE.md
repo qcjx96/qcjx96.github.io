@@ -14,9 +14,11 @@ image :
 # Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
 
-I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish) and I really want a drink.
+I just watched Thomas Vinterberg's *The Celebration* (1998, *Festen* in Danish). A Freemason invites a large group of family and friends to the family hotel for his sixtieth birthday. His son makes a speech about how his father raped him and his dead sister when they were kids.
 
-But I haven't had a drink for more than three weeks now. This is the longest time I haven't had a drink in about three years, and the only stretch I haven't had a drink for more than three days.
+Now I want a drink.
+
+I haven't had a drink for more than three weeks now. This is the longest time I haven't had a drink in about three years, and the only stretch I haven't had a drink for more than three days.
 
 I don't want to say I've been sober three weeks, because then I'd really sound like an alcoholic. That was the word ("sober," not the other one) the doctor used on the phone call the other day, when I told him I had been burning myself with cigarettes and would like a referral to a psychiatrist.
 
