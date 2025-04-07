@@ -34,24 +34,20 @@ I'm dealing with some burnout of my own. Ever since I'd gotten home, I've been a
 # Progress
 <p style="color:DarkCyan;font-weight:bold;">(Safe content)</p>
 
-Anyway, I've been trying to start a research blog, which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
+Anyway, I've been trying to start a research blog (this blog), which I could hopefully use for my PhD applications this winter, about a nine months from now, to explain what I have been doing for a year after I quit my job. So far, I am making slow progress.
 
-My inital plan was to do a short research project on the US-Canadian trade war. The main methodology would be implementing a very simple computable egeneral equilibrium model (CGEM), which I think would be quite impressive given that I'm just a lowly pre-doc. But CGEMs turned out to be quite hard.
+My inital plan was to do a short research project on the US-Canadian trade war. So far I've only managed to make some descriptive figures, which I've made into a [blog post](https://qcjx96.github.io/posts/US-CA-trade-war/). The main methodology would be to implement a very simple computable egeneral equilibrium model **(CGE)**, which I think would be quite impressive work for a lowly pre-doc. But CGEs turned out to be quite hard.
 
-What the hell even is a CGEM? Luckily, I just explained this to my non-economics friend yesterday. General equilibrium models (the GEM in CGEM) are basically a toy model of the economy, represented with equations. You set up equations for households, firms, and optionally, other agents like the government, central bank, and their foreign counterparts. But in simple models, the most important elements are the household and firm agents.
+What the hell even is a CGE? Luckily, I just explained this to my non-economics friend yesterday. General equilibrium models (the GE in CGE) are basically toy models of the economy represented with equations. You set up equations for households, firms, and optionally, other agents like the government, central bank, and their foreign counterparts. But in simple models, the most important elements are the household and firm agents.
 
 Households make choices for example about how much goods they want to consume, and how much they want to work to pay for those goods. Firms choose how many workers and capital they need to produce final goods for consumers. Then you make markets clear by making supply equal demand, and bada-bing bada-bong, you've solved the equilibrium prices for goods and labour.
-
-These models get pretty hard to solve analytically if you scale up in dimensions (with multiple agents and factor variables). So you use a computer: hence the computable part of CGEM. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s.
-
-But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and support on StackOverflow is usually much less robust than popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
-
-For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
-
 
 ## A simple GE model
 
 Let's look at a simple example, just "for fun."
+
+![A diagram of our simple GE model.](../assets/img/misc/ge_diagram.png){: .light}
+![A diagram of our simple GE model.](../assets/img/misc/ge_diagram-dark.png){: .dark}
 
 ### Firms
 
@@ -284,5 +280,17 @@ $$
 $$
 
 This is pretty much the simplest model of a production economy. And it has a nice, neat solution.
+
+# The way forward
+
+These models get pretty hard to solve analytically if you scale up in dimensions (with multiple agents and factor variables). So you use a computer: hence the computable part of **C**GE. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s.
+
+But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and support on StackOverflow is usually much less robust than popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
+
+For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
+
+But I've been going through the CGE literature and found a path forward. First, I will replicate [Zhong (2023)](https://www.pc.gov.au/research/supporting/cge-iterative-method/cge-iterative-method.pdf), a paper that shows how to solve CGE systems iteratively. It uses an example model with trade, and the solution method seems very similar to gradient descent. This gave me the idea to try fitting the demand and supply curves directly using neural networks rather than assuming the utility and production functions. But that's for another time.
+
+Then I will use [Albrecht and Tombe (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12196) as a reference to develop my own model. They model agents for each Canadian province, and includes inter-provincial and foreign trade. This is one of the papers that Mark Carney cited in his [One Canada Economy](https://markcarney.ca/one-canadian-economy) plan.
 
 More to come.
