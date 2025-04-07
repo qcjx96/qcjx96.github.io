@@ -95,27 +95,3 @@ Canada's trade reliance on the US is stark, especially in terms of exports. Trum
 Mark Carney's [visit to Europe](https://www.nytimes.com/2025/03/17/world/canada/canada-trump-carney-europe.html) after being sworn in as Prime Minister was a gesture to show his initiative in mitigating the damage that has ensued, but it's clear that Europe cannot absorb anywhere close to US's demand for Canadian goods. Carney is also campaigning with [a plan to remove interprovincial trade barriers](https://markcarney.ca/one-canadian-economy) within Canada. I'm currently looking into the papers cited in the plan, but so far I'm skeptical that significant pains in the short term can be avoided. However, a detox from US trade was probably overdue. These plans to strengthen non-US trade relations and reduce internal trade barriers will pay dividends in the future.
 
 But I will not lie, the current prognosis looks quite grim. Exactly how bad will it be? More to come in this series.
-
-<!-- 
-<style>
-figure{text-align: center; max-width: 45%; float:left; margin:0;padding: 1px;}
-figure img{width: 100%;}
-</style>
-
-<div>
-<figure>
-    <figcaption align="center"><b>Canada's top 10 import partners (2024)</b></figcaption>
-    <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners.png?raw=true' alt=''/>
-</figure>
-<figure>
-    <figcaption align="center"><b>Canada's top 10 export partners (2024)</b></figcaption>
-    <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true' alt=''/>
-</figure>
-</div> -->
-
-<!--
-TODO:
-* Descriptive figures of balance of payments by industry for Canada and main trade partners
-* General equilibrium (SOE) model with tariffs
-* DSGE (NOEM) model
--->
