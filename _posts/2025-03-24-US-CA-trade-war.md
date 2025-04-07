@@ -12,20 +12,21 @@ image:
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
 
-Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be, simply, for no good reason.
+Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be: for no good reason.
 
-His formal justifications are nebulous at best, hovering around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
+His formal justifications hover around border security and the US trade deficit with Canada.
 
-Canada's part in US border problem is negligeable. Last year, less than [one-tenth of illegal migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/) and [less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border. Almost a rounding error. US trade deficit with Canada is also less than [one-fifth that of China and the EU](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_the_United_States).
+The ongoing migrant crisis has resulted in growing number of unlawful crossings in the US-Canada border. However, last year, less than [one-tenth of unlawful migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/). Fentanyl coming from Canada is a non-issue. [Less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border amounted. Tariffs are a pointlessly belligerent taken upon an ally. 
 
-So why did he really start all this trouble? My favourite pet theory is that he did not like being cuckolded by Justin Trudeau.
+Trump's reasoning for punishing Canada for US's trade deficit is based on a flawed understanding of trade. US trade deficit with Canada is also less than [one-fifth that of China and the EU](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_the_United_States).
+
+So why did he target Canada in the first weeks of his presidency? My pet theory is he did not like being cuckolded by Justin Trudeau.
 
 <!-- Though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3). -->
 
-It goes back to a G7 summit in 2019, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
+It goes back to the 2019 G7 summit, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
 ![Justin Trudeau and Melania Trump lean in for a kiss with Trump obliviously unaware of the seduction.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
-
 
 The first daughter was not spared the Trudeau photo trap either. Following the PM's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka gazing at Justin with a pondering hand on her chin.
 
@@ -33,9 +34,9 @@ The first daughter was not spared the Trudeau photo trap either. Following the P
 
 Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC.
 
-But however bizarre these or other reasons for the tariffs are, Canada is now in a trade war against the US, its closest historical trade partner.
+But however bizarre these or other reasons for the tariffs are, Canada is now in a trade war against the US, its closest neighbour and historical trade partner.
 
-Mark Carney, the new Prime Minister replacing Trudeau after the latter's resignation, said after his Liberal Party's election victory that ["Canada will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also stated that he [favors a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs. Both major contenders to become the Prime Minister in the coming election this year have stated clear intentions to decouple from the United States in trade relations. [SOURCE]
+Mark Carney, the new Prime Minister after Trudeau's resignation, said in his election victory speech that ["Canada will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also stated that he [favors a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
 How might this play out for Canadian industries and workers? Let's first take a look at the current state of affairs between Canada and its main trade partners.
 
