@@ -51,7 +51,7 @@ Let's look at a simple example, just "for fun."
 
 ![A diagram of our simple GE model.](../assets/img/misc/ge_diagram.png){: .light width="500"}
 ![A diagram of our simple GE model.](../assets/img/misc/ge_diagram-dark.png){: .dark width="500"}
-<center><b>Diagram of model (that I spent way too much time making).</b></center>
+<center><b>Diagram of our simple model. (I spent way too much time making the light/dark-mode graphic.)</b></center>
 
 ### Firms
 
