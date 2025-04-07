@@ -6,7 +6,7 @@ categories: [economics]
 tags: [US-Canada, trade war, descriptives]
 image:
     path: https://external-preview.redd.it/C14bfx9nJDX3MQdf735wXg-qIsvc4gAjxjesPTgDq8E.jpg?width=1080&crop=smart&auto=webp&s=49af13c4bf2f90bb356db05ae3fbac80cf47831e
-    alt: Trump and Trudeau engage in hand-shake/wrestle foreplay in prelude to the trade war.
+    alt: Trump and Trudeau engage in hand-shake/wrestling.
 ---
 
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
