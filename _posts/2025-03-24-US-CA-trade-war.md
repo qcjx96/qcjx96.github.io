@@ -22,14 +22,14 @@ The trade deficit with Canada is dwarfed by those of other US trade partners lik
 
 So why did he really start all this trouble? My favourite pet theory is that he did not like being cucked by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
-It goes back to a G7 summit in 2019, where a photo of Trudeau kissing First Lady Melania Trump, who was holding the oblivious President's hand, went viral. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
+It goes back to a G7 summit in 2019, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One (of course) French news outlet lead their report on this exchange with the title, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
-![Justin Trudeau and Melania Trump lean in for a kiss.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
+![Justin Trudeau and Melania Trump lean in for a kiss with Trump obliviously unaware of the seduction.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
 
 
-The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
+The first daughter was not spared the Trudeau photo trap either. Following the PM's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka gazing at Justin with a pondering hand on her chin.
 
-![Ivanka looks at Trudeau with the Trump-brand fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
+![Ivanka looks at Trudeau with Trump-brand fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC.
 
