@@ -7,7 +7,7 @@ tags : [dogme95, burnout, CGE]
 math : true
 image :
     path : https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7673-/zmxxJVXBv8FF43JFhwBV7UEOd6T0uC_original.jpg
-    alt: Christian from "The Celebration" holds up two speeches.
+    alt : Christian from "The Celebration" holds up two speeches.
 ---
 
 
