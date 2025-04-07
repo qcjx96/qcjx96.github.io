@@ -29,7 +29,7 @@ It goes back to a G7 summit in 2019, where a photo of Trudeau kissing First Lady
 
 The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
 
-![Ivanka looks at Trudeau with the Trump trademark fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
+![Ivanka looks at Trudeau with the Trump-brand fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC.
 
