@@ -76,7 +76,9 @@ __Shares of Exports from Canada to Trade Partners__
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
 
-Here is a by sector breakdown. I will say more about these later.
+## Canadian Trade Industries
+
+Here is a by-sector breakdown. I will say more about these later. I also plan to update this post with figures breaking down trade by provinces.
 
 __Imports by Sector (2024)__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-imports.png?raw=true){:.light}
@@ -89,9 +91,7 @@ __Exports by Sector (2024)__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-exports-dark.png?raw=true){:.dark}
 <small>Data from <a href="https://ised-isde.canada.ca/site/trade-data-online/en">ISED Canada</a> | figure by <a href="https://github.com/jackQCXie/CAtrade">author</a></small>
 
-I also plan to update this post with figures breaking down trade by provinces.
-
-
+---
 
 Canada's trade reliance on the US is starkly clear, especially in terms of exports. Trump's tariffs will take a large toll on producers in Canadian export industries, which will likely translate to a contraction in the economy (i.e. recession) and job losses. Canada's reliatory tariffs against the US will also raise prices for certain goods, though they are likely our most effective bargaining chip to negotiate an end to Trump's unsolicited trade war (short of agreeing to annexation). These are the direct effects of the tariffs, which will propogate to the rest of the economy as well.
 
