@@ -46,8 +46,10 @@ Households make choices for example about how much goods they want to consume, a
 
 Let's look at a simple example, just "for fun."
 
+
 ![A diagram of our simple GE model.](../assets/img/misc/ge_diagram.png){: .light}
 ![A diagram of our simple GE model.](../assets/img/misc/ge_diagram-dark.png){: .dark}
+<center><b>A diagram of our model. (I spent way too much time making this in darkmode.)</b></center>
 
 ### Firms
 
