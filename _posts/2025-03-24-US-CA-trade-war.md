@@ -16,9 +16,7 @@ Why did Donald Trump start an unnecessary trade war with Canada? The consensus s
 
 His formal justifications are nebulous at best, hovering around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
 
-<!--
-Canada's part in US border problem is negligeable. Less than xx% of illegal migrants come from Canada, and less than 1% of fentanyl in the US comes from Canada. Almost a rounding error. The trade deficit with Canada is also dwarfed by those of other US trade partners like China and the EU.
--->
+Canada's part in US border problem is negligeable. Last year, less than [one-tenth of illegal migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/) and [less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border. Almost a rounding error. US trade deficit with Canada is also less than [one-fifth that of China and the EU](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_the_United_States).
 
 So why did he really start all this trouble? My favourite pet theory is that he did not like being cucked by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
