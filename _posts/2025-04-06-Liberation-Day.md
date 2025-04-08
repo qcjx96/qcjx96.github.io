@@ -10,8 +10,6 @@ image :
 math : true
 ---
 
-<b><center>(work in progress)</center></b><br>
-
 On Thursday I woke up to a message from my buddy. I checked the NYTimes app, and lo-and-behold, the world was aghast. The news have been filled with headlines about turmoil in markets ever since.
 
 This got me thinking about why markets move so quickly. When bad news breaks, a sell-off is triggered, prices fall, and the valuation of the stock market falls&mdash;all in the blink of an eye.
