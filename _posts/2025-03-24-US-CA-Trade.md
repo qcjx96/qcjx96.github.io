@@ -26,7 +26,7 @@ But why did he target Canada first (alongside China and Mexico) before Liberatio
 
 It goes back to the 2019 G7 summit, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
-![Justin and Melania](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4 "Justin and Melania lean in for a kiss, with Donald blissfully unaware of the seduction taking place.")
+![Justin and Melania](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4 "Justin and Melania lean in for a kiss with Donald blissfully unaware of the seduction taking place.")
 
 The first daughter was not spared the Trudeau photo trap either. Following the PM's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka gazing at Justin with a pondering hand on her chin.
 
