@@ -2,6 +2,8 @@
 title : Liberation Day and Lemmings
 description : Thoughts on markets after the news shock.
 date : 2025-04-06
+categories : [journal]
+tags : [Liberation Day, lemmings, incoherent rant]
 image :
     path : https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F
     alt : Trump holds up tariffs poster like a kid showing off his piece-of-shit school project.
@@ -94,4 +96,6 @@ x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
 \end{equation*}
 $$
 
-Okay, there are a lot of mixed metaphors in this example. But it demonstrates a phenomenon where perfectly rational lemmings cause surprising and extreme outcomes. You get the point, right? (Don't worry, I don't either.)
+Okay, there are a lot of mixed metaphors in this example. But it demonstrates a phenomenon where perfectly rational lemmings cause surprising and extreme outcomes.
+
+You get the point, right? Don't worry, I don't either.
