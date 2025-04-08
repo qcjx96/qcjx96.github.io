@@ -55,7 +55,7 @@ Let's look at a simple example, just "for fun."
 
 ### Firms
 
-Suppose the representative firm uses only labour $ L $ to produce goods $ Y $ with the production function:
+Suppose the representative firm uses only labour $$ L $$ to produce goods $$ Y $$ with the production function:
 $$
 \begin{equation}
     Y = f(L) = A L^\gamma,
@@ -63,7 +63,7 @@ $$
 \end{equation}
 $$
 
-where $ A $ is a productivity factor and $ \gamma $ is a non-zero parameter. The firm maximizes profits
+where $$ A $$ is a productivity factor and $$ \gamma $$ is a non-zero parameter. The firm maximizes profits
 $$
 \begin{equation}
     \pi = p Y - w L,
@@ -115,7 +115,7 @@ $$
 
 ### Households
 
-The representative household chooses how much to work $L$ and how much to consume $C$ to maxmize their utility function
+The representative household chooses how much to work $$ L $$ and how much to consume $$ C $$ to maxmize their utility function
 $$
 \begin{equation}
     u(C, L) = \frac{C^\alpha}{L^\beta},
@@ -125,9 +125,9 @@ $$
 \end{equation}
 $$
 
-Assume that all profits made by the firm $ \pi $ are distributed to the household, though the households cannot directly control the firm's decisions (and therefore profit), so they take $ \pi $ as granted.
+Assume that all profits made by the firm $$ \pi $$ are distributed to the household, though the households cannot directly control the firm's decisions (and therefore profit), so they take $$ \pi $$ as granted.
 
-The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $ p C \le \pi + w L$, where $p$ is the price of goods and $w$ is the wage rate.
+The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $$ p C \le \pi + w L$, where $$p$ is the price of goods and $$w$ is the wage rate.
 
 Since we are in a one-period model, let's assume that the household consumes all their income, so that
 $$
@@ -138,7 +138,7 @@ $$
 $$
 
 <details>
-<summary>We solve for optimal consumption demand and labour supply (toggle ▶ for details).</summary>
+<summary>Now we solve for optimal consumption demand and labour supply (toggle for details).<br></summary>
 
 For constrained maximization problems, we set up the <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Langrangian function</a>
 $$
@@ -147,7 +147,7 @@ $$
     \tag{Lagrangian}
 \end{equation}
 $$
-and the first-order derivatives with respect to the control variables ($ C, L $) and the Lagrange $ \lambda $. The first order conditions are
+and the first-order derivatives with respect to the control variables ($ C, L $$) and the Lagrange $$ \lambda $$. The first order conditions are
 $$
 \begin{align}
     \frac{\partial \mathcal{L}}{\partial C}
@@ -215,7 +215,7 @@ $$
     \tag{goods demand}
 \end{equation}
 $$
-Plugging $C^*$ into \eqref{eq:LCT} gets us the labour supply curve:
+Plugging $$ C^* $$ into \eqref{eq:LCT} gets us the labour supply curve:
 $$
 \begin{equation}
     L_S^* = \frac{\pi}{w}\frac{\beta}{\alpha-\beta}.
@@ -235,7 +235,7 @@ $$
 $$
 
 <details>
-<summary>We solve for the relative prices of labour and goods (toggle ▶ for details).</summary>
+<summary>We solve for the relative prices of labour and goods (toggle for details).</summary>
 We have that
 $$
 \begin{align}
@@ -290,11 +290,11 @@ This is pretty much the simplest model of a production economy. And it has a nic
 
 These models get pretty hard to solve analytically if you scale up in dimensions (with multiple agents and factor variables). So you use a computer: hence the computable part of **C**GE. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s.
 
-But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and online support such as on StackOverflow is usually much less robust than for popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
+But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and community support (e.g. on StackOverflow) is usually much less robust than for popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
 
 For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 
-But I've been going through the CGE literature and found a path forward. First, I will replicate [Zhong (2023)](https://www.pc.gov.au/research/supporting/cge-iterative-method/cge-iterative-method.pdf), a paper that shows how to solve CGE systems iteratively. It uses an example model with trade, and the solution method seems very similar to gradient descent. This gave me the idea to try fitting the demand and supply curves directly using neural networks rather than assuming the utility and production functions. But that's for another time.
+But I've been going through the CGE literature and found a path forward. First, I will replicate [Zhang (2023)](https://www.pc.gov.au/research/supporting/cge-iterative-method/cge-iterative-method.pdf), a paper that demonstrates how to solve CGE systems iteratively. It uses an example model with trade, and the solution method seems very similar to gradient descent. This gave me the idea to try fitting the demand and supply curves directly using neural networks rather than assuming the utility and production functions. But that's for another time.
 
 Then I will use [Albrecht and Tombe (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12196) as a reference to develop my own model. They model agents for each Canadian province, and includes inter-provincial and foreign trade. This is one of the papers that Mark Carney cited in his [One Canadian Economy](https://markcarney.ca/one-canadian-economy) plan.
 

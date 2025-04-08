@@ -33,7 +33,7 @@ The Nash equilibrium to this game is, surprisingly, that all lemmings choose zer
 ![Lemming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "This little guy has a cocaine problem"){: width="500"}
 
 
-Suppose $ N $ lemmings each enumerated by $ i $ guess a number $ x_{i} \in [0, 1] $ from zero to one. Each lemming wins if their guess is the closest to $ \alpha=\frac{2}{3} $ of the average, 
+Suppose $$ N $$ lemmings each enumerated by $$ i $$ guess a number $$ x_{i} \in [0, 1] $$ from zero to one. Each lemming wins if their guess is the closest to $$ \alpha=\frac{2}{3} $$ of the average, 
 
 $$
 \begin{equation*}
@@ -42,7 +42,7 @@ X = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
 \end{equation*}
 $$
 
-Actually, the Nash equilibrium is zero for any number $ \alpha \in [0, 1) $ between zero and one. But anyway, the goal is to guess as close to the target as possible:
+Actually, the Nash equilibrium is zero for any number $$ \alpha \in [0, 1) $$ between zero and one. But anyway, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
     x_i \simeq \alpha X.
@@ -50,7 +50,7 @@ $$
 \end{equation}
 $$
 
-Obviously, lemming $ i $ should not choose $ x_i=1 $. Because even if all the other lemmings choose the maximum so that $ X = 1 $, he should guess less since
+Obviously, lemming $$ i $$ should not choose $$ x_i=1 $$. Because even if all the other lemmings choose the maximum so that $$ X = 1 $$, he should guess less since
 
 $$
 \begin{equation*}
@@ -58,7 +58,7 @@ $$
 \end{equation*}
 $$
 
-where $\bar X $ represents the rational upperbound of $ X $. Some lemmings would definitely choose $ x_i = 1 $ in real life, though. But let's pretend all the lemmings are smart.
+where $$ \bar X $$ represents the rational upperbound of $$ X $ $$. Some lemmings would definitely choose $$ x_i = 1 $$ in real life, though. But let's pretend all the lemmings are smart.
 
 Because the lemmings are smart and know all of this, each should instead choose
 
@@ -70,7 +70,7 @@ $$
 
 Right?
 
-If you said yes, you would not be a smart lemming. Because a smart lemming $ i $ would remember that every other other lemming $ j $ is smart too, and that he also know she should choose at most $ x_j \le \frac{2}{3} $. Not $ x_j > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $ \bar X \le \alpha $. And therefore, he should actually choose at most
+If you said yes, you would not be a smart lemming. Because a smart lemming $$ i $$ would remember that every other other lemming $$ j $$ is smart too, and that he also know she should choose at most $$ x_j \le \frac{2}{3} $$. Not $$ x_j > \frac{2}{3} $$ like a dumb person. So a smart lemming knows that actually $$ \bar X \le \alpha $$. And therefore, he should actually choose at most
 
 $$
 \begin{equation*}
@@ -78,11 +78,11 @@ x_i \le \alpha^2 \bar X \le \frac{4}{9}.
 \end{equation*}
 $$
 
-But... another lemming $ j $ would know this too, and will also choose $ x_j \le \frac{4}{9} $.
+But... another lemming $$ j $$ would know this too, and will also choose $$ x_j \le \frac{4}{9} $$.
 
-So lemming $ i $ should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
+So lemming $$ i $$ should choose at most $$ x_i \le \alpha^3 $$, right? Yes. But he should then also choose at most $$ x_i \le \alpha^4 $$, and so on...
 
-By this logic, each lemming needs to infinitely undercut the ceiling for the target $ \alpha \bar X $. And since everyone else is also undecutting, $ \alpha \bar X $ keeps collapsing. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get the Nash equilibrium that all lemmings should choose
+By this logic, each lemming needs to infinitely undercut the ceiling for the target $$ \alpha \bar X $$. And since everyone else is also undecutting, $$ \alpha \bar X $$ keeps collapsing. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get the Nash equilibrium that all lemmings should choose
 
 $$
 \begin{equation*}
