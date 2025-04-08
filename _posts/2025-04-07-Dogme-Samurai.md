@@ -1,5 +1,5 @@
 ---
-title : Dogme 95 and the Samurai path
+title : Dogme 95 and the Samurai Path
 description :
 date : 2025-04-07
 image :

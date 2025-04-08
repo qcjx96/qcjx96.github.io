@@ -1,5 +1,5 @@
 ---
-title : Beauty contests and sunspots
+title : Beauty Contests and Sunspots
 description : Thoughts on markets after news shocks.
 date : 2025-04-06
 image :
