@@ -94,5 +94,5 @@ $$
 ## Beauty contests
 
 
-<center>Three analysts at a private equity fund</center>
+<center>Three junior analysts at a private equity fund</center>
 ![Lemmings](https://img.freepik.com/premium-photo/image-adorable-arctic-lemmings-key-prey-arctic-food-chain-concept-arctic-wildlife-lemmings-food-chain-ecosystem-animal-behavior_864588-70920.jpg?w=360 "They won't talk about what happened at the strip club last Friday.")
