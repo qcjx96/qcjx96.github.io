@@ -13,10 +13,10 @@ math : true
 On Thursday I woke up to a message from my buddy. I checked the NYTimes app, and lo-and-behold, the world was aghast. The news have been filled with headlines about turmoil in markets ever since.
 
 <center><b>Waking up Thursday</b></center>
-![Text](../assets/img/misc/LD-text-long.png "Why is he such a dumbass?"){: width="400"}
+![Text](../assets/img/misc/LD-text-long.png "Why's Trump such a dumbass?"){: width="400"}
 
-<center><b>The top <a href="https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market">NYT headline</a> this morning.</b></center>
-![NYT](../assets/img/misc/LD-nyt.png "NYT headline this morning"){: width="400"}
+<center><b>Top <a href="https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market">NYT headline</a> this morning.</b></center>
+![NYT](../assets/img/misc/LD-nyt.png "Goddammit"){: width="400"}
 
 
 This got me thinking about why markets move so quickly. When bad news breaks, a sell-off is triggered, prices fall, and the valuation of the stock market falls&mdash;all in the blink of an eye.
@@ -25,7 +25,8 @@ Following the "Liberation Day" annoucement, the S&P500 dropped xx% in one day, w
 
 The question is then: why do stocks spaz out? Well, the financial markets&ndash;in my mind&ndash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-![Lemmings](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-LBS04EO7OmwIXvEF5LPDGuUOJ4vIq6_sw&s "Lemming Jonestown"){: width="400"}
+<center><b>Lemmings Jonestown</b></center>
+![Lemmings](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-LBS04EO7OmwIXvEF5LPDGuUOJ4vIq6_sw&s "Fuck fuck fuck"){: width="350"}
 
 Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's a lot of money to be made, they compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
 
@@ -85,5 +86,6 @@ x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
 \tag{solution}
 \end{equation*}
 $$
+Okay, there are a lot of mixed metaphors in this example. But you get the point, right?* Even perfectly rational behaviour in groups can result in extreme outcomes.
 
-There are a lot of mixed metaphors in this example. But you get the point. Even perfectly rational behaviour in groups can result in extreme outcomes.
+<p style="font-size:small;">*Don't worry. I'm not sure if I do, either.</p>
