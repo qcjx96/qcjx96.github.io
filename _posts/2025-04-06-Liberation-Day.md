@@ -1,6 +1,6 @@
 ---
 title : Liberation Day and Lemming Games
-description : Thoughts on markets after the news shock.
+description : Thoughts on stock markets after the news shock.
 date : 2025-04-06
 categories : [journal, incoherent rant]
 tags : [liberation Day, lemmings, game theory]
