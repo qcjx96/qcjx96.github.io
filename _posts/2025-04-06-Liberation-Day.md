@@ -42,7 +42,7 @@ X = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
 \end{equation*}
 $$
 
-Actually, the Nash equilibrium is zero for any number $$ \alpha \in [0, 1) $$ between zero and one. But anyway, the goal is to guess as close to the target as possible:
+Actually, the Nash equilibrium is $$ x_i^* = 0$$ for any $$ \alpha \in [0, 1) $$. But anyway, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
     x_i \simeq \alpha X.
@@ -58,7 +58,7 @@ $$
 \end{equation*}
 $$
 
-where $$ \bar X $$ represents the rational upperbound of $$ X $ $$. Some lemmings would definitely choose $$ x_i = 1 $$ in real life, though. But let's pretend all the lemmings are smart.
+where $$ \bar X $$ represents the rational upperbound of $$ X $$. Some lemmings would definitely choose $$ x_i = 1 $$ in real life, though. But let's pretend all the lemmings are smart.
 
 Because the lemmings are smart and know all of this, each should instead choose
 
