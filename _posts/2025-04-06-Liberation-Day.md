@@ -70,7 +70,7 @@ $$
 
 Right?
 
-If you said yes, you would not be a smart lemming. Because a smart lemming $$ i $$ would remember that every other other lemming $$ j $$ is smart too, and that he also know she should choose at most $$ x_j \le \frac{2}{3} $$. Not $$ x_j > \frac{2}{3} $$ like a dumb person. So a smart lemming knows that actually $$ \bar X \le \alpha $$. And therefore, he should actually choose at most
+If you said yes, you would not be a smart lemming. Because a smart lemming $$ i $$ would remember that every other other lemming $$ j $$ is smart too, and that $j$ also knows she should choose at most $$ x_j \le \frac{2}{3} $$. Not $$ x_j > \frac{2}{3} $$ like a dumb person. So a smart lemming knows that actually $$ \bar X \le \alpha $$. And therefore, he should actually choose at most
 
 $$
 \begin{equation*}
