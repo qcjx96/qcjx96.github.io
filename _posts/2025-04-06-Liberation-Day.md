@@ -80,9 +80,9 @@ $$
 
 But... another lemming $$ j $$ would know this too, and will also choose $$ x_j \le \frac{4}{9} $$.
 
-So lemming $$ i $$ should choose at most $$ x_i \le \alpha^3 $$, right? Yes. But he should then also choose at most $$ x_i \le \alpha^4 $$, and so on...
+So lemming $$ i $$ should choose at most $$ x_i \le \alpha^3 $$, right? Yes, but therefore $$ j $$ should choose this too. So then $$ i $$ should choose at most $$ x_i \le \alpha^4 $$, and so on...
 
-By this logic, each lemming needs to infinitely undercut the ceiling for the target $$ \alpha \bar X $$. And since everyone else is also undecutting, $$ \alpha \bar X $$ keeps collapsing. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get the Nash equilibrium that all lemmings should choose
+By this logic, each lemming should infinitely undercut the ceiling for the target $$ \alpha \bar X $$ by a factor of $$ \alpha $$. And since everyone else is also undecutting, the target value collapses. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get the Nash equilibrium that all lemmings should choose
 
 $$
 \begin{equation*}
