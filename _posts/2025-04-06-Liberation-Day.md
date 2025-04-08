@@ -33,7 +33,7 @@ The Nash equilibrium to this game is, surprisingly, that all lemmings choose zer
 ![Lemming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "This little guy has a cocaine problem."){: width="500"}
 
 
-Suppose $$ N $$ lemmings each enumerated by $$ i $$ guess a number $$ x_{i} \in [0, 1] $$ from zero to one. Each lemming wins if their guess is the closest to $$ \alpha=\frac{2}{3} $$ of the average, 
+Suppose $$ N $$ lemmings enumerated by $$ i = 1, 2, ..., N $$ each guess a number $$ x_{i} \in [0, 1] $$ from zero to one. Each lemming wins if his or her guess is the closest to $$ \alpha=\frac{2}{3} $$ of the average, 
 
 $$
 \begin{equation*}
