@@ -9,6 +9,8 @@ image:
     alt: Trump and Trudeau engage in hand-shake wrestling.
 ---
 
+<center><b>(Work in progress)</b></center>
+
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
 
@@ -78,7 +80,7 @@ __Shares of Exports from Canada to Trade Partners__
 
 ## Canada's Trade Sectors
 
-Here is a by-sector breakdown. I will say more about these later. I also plan to update this post with figures breaking down trade by provinces.
+Here is a by-sector breakdown. I will say more about these later. I plan to update this post with figures breaking down trade by provinces also.
 
 __Imports by Sector (2024)__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-sector-imports.png?raw=true){:.light}

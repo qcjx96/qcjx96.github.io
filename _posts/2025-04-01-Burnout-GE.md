@@ -10,6 +10,7 @@ image :
     alt : Christian from "The Celebration" holds up two speeches.
 ---
 
+<center><b>(Work in progress)</b></center>
 
 # Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
@@ -290,7 +291,7 @@ This is pretty much the simplest model of a production economy. And it has a nic
 
 These models get pretty hard to solve analytically if you scale up in dimensions (with multiple agents and factor variables). So you use a computer: hence the computable part of **C**GE. From what I gather, there are two main proprietary softwares that people use to do these models, where you basically plug in your equations into an interface from the 90s.
 
-But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and support on StackOverflow is usually much less robust than popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
+But doing it this way is not interesting to me. Over the past few years, I've developed a sort of disdain for proprietary software (looking at you, Stata). Why? Firstly, you have to invest time to learn how to work the bespoken outdated interface and syntax, which is annoying. Secondly, the documentation and online support such as on StackOverflow is usually much less robust than for popular open-source programs. Thirdly, because it is not free, I usually have to steal it.
 
 For this project, it would also be incredibly unsatisfying that I would not understand how the model is actually solved.
 

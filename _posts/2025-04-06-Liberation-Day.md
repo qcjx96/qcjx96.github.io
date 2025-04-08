@@ -7,6 +7,8 @@ image :
     alt : Trump holds up tariffs poster like a kid showing off his piece-of-shit school project.
 ---
 
+<center><b>(Work in progress)</b></center>
+
 On Thursday I woke up to a message from my buddy. I checked the NYTimes app, and lo-and-behold, the world was aghast. The news have been filled with headlines about turmoil in markets ever since.
 
 <center><b>Waking up to the news on Thursday.</b></center>
