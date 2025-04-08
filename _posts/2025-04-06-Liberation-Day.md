@@ -16,8 +16,8 @@ This got me thinking about why markets move so quickly. When bad news breaks, a 
 
 Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's better for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any real effects? Though the stock market was spassing out, global trade has not fallen sharply on the exact day of the annoucement.
 
-<center>Trump holds up tariffs poster like a kid showing off his piece-of-shit school project</center>
-![Trump](https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F "Good at that shit eating grin")
+<center>Trump holds up tariffs poster like a kid showing off his piece-of-shit school project.</center>
+![Trump](https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F "Good at that shit eating grin.")
 
 The question is then: why do the markets out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
@@ -29,8 +29,8 @@ To illustrate, take the famouse game theory problem where lemmings try to ["gues
 
 The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
-<center>A mergers and acqusitions specialist</center>
-![Lemming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "This little guy has a cocaine problem"){: width="500"}
+<center>A mergers and acqusitions specialist.</center>
+![Lemming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "This little guy has a cocaine problem."){: width="500"}
 
 
 Suppose $$ N $$ lemmings each enumerated by $$ i $$ guess a number $$ x_{i} \in [0, 1] $$ from zero to one. Each lemming wins if their guess is the closest to $$ \alpha=\frac{2}{3} $$ of the average, 
@@ -94,5 +94,5 @@ $$
 ## Beauty contests
 
 
-<center>Three analysts at a private equity fund</center>
-![Lemmings](https://img.freepik.com/premium-photo/image-adorable-arctic-lemmings-key-prey-arctic-food-chain-concept-arctic-wildlife-lemmings-food-chain-ecosystem-animal-behavior_864588-70920.jpg?w=360 "They won't talk about what happened at the strip club last Friday")
+<center>Three analysts at a private equity fund.</center>
+![Lemmings](https://img.freepik.com/premium-photo/image-adorable-arctic-lemmings-key-prey-arctic-food-chain-concept-arctic-wildlife-lemmings-food-chain-ecosystem-animal-behavior_864588-70920.jpg?w=360 "They won't talk about what happened at the strip club last Friday.")
