@@ -50,7 +50,7 @@ $$
 \end{equation}
 $$
 
-Obviously, lemming $ i $ should not choose $ x_i=1 $. Because even if all the other lemmings choose the maximum so that $\bar x = 1$, he should guess less because
+Obviously, lemming $ i $ should not choose $ x_i=1 $. Because even if all the other lemmings choose the maximum so that $\bar x = 1$, he should guess less since
 
 $$
 \begin{equation*}
