@@ -32,7 +32,7 @@ The first daughter was not spared the Trudeau photo trap either. Following the P
 
 ![Justin and Ivanka](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578 "Ivanka looks at Justin with Trump-brand fuck-me eyes.")
 
-Say what you will about Justin, our boy is handsome. And there is definitely animosity there from the big man in DC.
+Say what you will about Justin, our boy is handsome.
 
 But however bizarre these or other reasons for the tariffs are, Canada is now in a trade war against the US, its closest neighbour and historical trade partner.
 
