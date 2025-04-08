@@ -70,11 +70,11 @@ $$
 
 Right?
 
-If you said yes, you would not be a smart lemming. Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $. Not $ x_i > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $ \bar x \le \alpha $. And therefore, he should actually choose at most
+If you said yes, you would not be a smart lemming. Because a smart lemming $ i $ would remember that every other other lemming $ j $ is smart too, and that he also know she should choose at most $ x_j \le \frac{2}{3} $. Not $ x_j > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $ \bar x \le \alpha $. And therefore, he should actually choose at most
 
 $$
 \begin{equation*}
-x_i \le \alpha^2 \bar x \le \frac{4}{9}.
+x_i \le \alpha^2 \max \bar x \le \frac{4}{9}.
 \end{equation*}
 $$
 
@@ -82,7 +82,7 @@ But... another lemming $j$ would know this too, and will also choose $x_j \le \f
 
 So lemming $i$ should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
 
-By this logic, each lemming needs to infintely undercut the ceiling for the target $ \alpha \bar x $. And since everyone else is also undecutting, $ \alpha \bar x $ keeps collapsing. Thus by this process, you get the Nash equilibrium that all lemmings should choose
+By this logic, each lemming needs to infinitely undercut the ceiling for the target $ \alpha \bar x $. And since everyone else is also undecutting, $ \alpha \bar x $ keeps collapsing. Thus by this process, you get the Nash equilibrium that all lemmings should choose
 
 $$
 \begin{equation*}
