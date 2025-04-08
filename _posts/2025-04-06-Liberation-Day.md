@@ -1,12 +1,12 @@
 ---
-title : Liberation Day and Lemmings
+title : Liberation Day and Lemming Games
 description : Thoughts on markets after the news shock.
 date : 2025-04-06
 categories : [journal, incoherent rant]
 tags : [liberation Day, lemmings, game theory]
 image :
-    path : https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F
-    alt : Trump holds up tariffs poster like a kid showing off his piece-of-shit school project.
+    path : https://inaturalist-open-data.s3.amazonaws.com/photos/22672833/large.jpg
+    alt : A derivatives trader.
 math : true
 ---
 
@@ -14,18 +14,13 @@ math : true
 
 On Thursday I woke up to a message from my buddy. I checked the NYTimes app, and lo-and-behold, the world was aghast. The news have been filled with headlines about turmoil in markets ever since.
 
-<center><b>Waking up Thursday</b></center>
-![Text](../assets/img/misc/LD-text-long.png "Why's Trump such a dumbass?"){: width="400"}
-
-<center><b>Top <a href="https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market">NYT headline</a> this morning.</b></center>
-![NYT](../assets/img/misc/LD-nyt.png "Goddammit"){: width="400"}
-
-
 This got me thinking about why markets move so quickly. When bad news breaks, a sell-off is triggered, prices fall, and the valuation of the stock market falls&mdash;all in the blink of an eye.
 
-Following the "Liberation Day" annoucement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's better for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any real effects? Though the stock market was spassing out, global trade has not fallen sharply on the exact day of the annoucement.
+![Trump](https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F "Trump holds up tariffs poster like a kid showing off his piece-of-shit school project."){: width="500"}  
 
-The question is then: why do stocks spaz out? Well, the financial markets&ndash;in my mind&ndash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
+Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's better for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any real effects? Though the stock market was spassing out, global trade has not fallen sharply on the exact day of the annoucement.
+
+The question is then: why do the markets out? Well, the financial markets&ndash;in my mind&ndash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
 Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's a lot of money to be made, they compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
 
@@ -36,7 +31,7 @@ To illustrate, take the famouse game theory problem where lemmings try to ["gues
 The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
 
-![Lemmings](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "A lemming"){: width="350"}
+![Lemmings](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "A lemming"){: width="500"}
 
 Suppose $ N > 1 $ lemmings, enumerated by $ i $, each guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Each lemming wins if their guess is the closest to $\alpha=\frac{2}{3}$ of the average, 
 
@@ -95,7 +90,3 @@ x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
 \tag{solution}
 \end{equation*}
 $$
-
-Okay, there are a lot of mixed metaphors in this example. But it demonstrates a phenomenon where perfectly rational lemmings cause surprising and extreme outcomes.
-
-You get the point, right? Don't worry, I don't either.
