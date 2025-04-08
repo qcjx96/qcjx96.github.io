@@ -50,7 +50,7 @@ $$
 \end{equation}
 $$
 
-Obviously, lemming $$ i $$ should not choose $$ x_i=1 $$. Because even if all the other lemmings choose the maximum so that $$ X = 1 $$, he should guess less since
+Obviously, lemming $$ i $$ should not guess $$ x_i=1 $$. Because even if all the other lemmings choose the maximum so that $$ X = 1 $$, he should choose less since
 
 $$
 \begin{equation*}
@@ -58,7 +58,7 @@ $$
 \end{equation*}
 $$
 
-where $$ \bar X $$ represents the rational upperbound of $$ X $$. Some lemmings would definitely choose $$ x_i = 1 $$ in real life, though. But let's pretend all the lemmings are smart.
+where $$ \bar X $$ represents the rational upperbound of $$ X $$. Some lemmings would definitely guess $$ x_i = 1 $$ in real life, though. But let's pretend all the lemmings are smart.
 
 Because the lemmings are smart and know all of this, each should instead choose
 
