@@ -296,6 +296,6 @@ For this project, it would also be incredibly unsatisfying that I would not unde
 
 But I've been going through the CGE literature and found a path forward. First, I will replicate [Zhong (2023)](https://www.pc.gov.au/research/supporting/cge-iterative-method/cge-iterative-method.pdf), a paper that shows how to solve CGE systems iteratively. It uses an example model with trade, and the solution method seems very similar to gradient descent. This gave me the idea to try fitting the demand and supply curves directly using neural networks rather than assuming the utility and production functions. But that's for another time.
 
-Then I will use [Albrecht and Tombe (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12196) as a reference to develop my own model. They model agents for each Canadian province, and includes inter-provincial and foreign trade. This is one of the papers that Mark Carney cited in his [One Canada Economy](https://markcarney.ca/one-canadian-economy) plan.
+Then I will use [Albrecht and Tombe (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12196) as a reference to develop my own model. They model agents for each Canadian province, and includes inter-provincial and foreign trade. This is one of the papers that Mark Carney cited in his [One Canadian Economy](https://markcarney.ca/one-canadian-economy) plan.
 
 More to come.
