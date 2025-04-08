@@ -18,9 +18,9 @@ His formal justifications hover around border security and the US trade deficit 
 
 The ongoing migrant crisis has resulted in growing number of unlawful crossings in the US-Canada border. However, last year, less than [one-tenth of unlawful migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/). Fentanyl coming from Canada is a non-issue. [Less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border amounted. Tariffs are a pointlessly belligerent taken upon an ally. 
 
-Trump's reasoning for punishing Canada for US's trade deficit is based on a flawed understanding of trade. US trade deficit with Canada is also less than [one-fifth that of China and the EU](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_the_United_States).
+Trump's scorn towards Canada's trade surplus with the US is also baffling, and based on a fundamentally flawed understanding of trade and balance of payments accounting. But who can blame him? Most people don't really understand it, including me. After all, he's only the President of the United States.
 
-So why did he target Canada in the first weeks of his presidency? My pet theory is he did not like being cuckolded by Justin Trudeau.
+But why did he target Canada first (alongside China and Mexico) before Liberation Day? My pet theory is that he didn't like being cuckolded by Justin Trudeau.
 
 <!-- Though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3). -->
 
