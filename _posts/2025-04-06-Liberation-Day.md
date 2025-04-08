@@ -37,7 +37,7 @@ Suppose $ N $ lemmings each enumerated by $ i $ guess a number $ x_{i} \in [0, 1
 
 $$
 \begin{equation*}
-\bar X = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
+X = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
 = \frac{1}{N} (x_1 + x_2 + ... + x_N).
 \end{equation*}
 $$
@@ -45,20 +45,20 @@ $$
 Actually, the Nash equilibrium is zero for any number $ \alpha \in [0, 1) $ between zero and one. But anyway, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
-    x_i \simeq \alpha \bar X.
+    x_i \simeq \alpha X.
 \tag{target}
 \end{equation}
 $$
 
-Obviously, lemming $ i $ should not choose $ x_i=1 $. Because even if all the other lemmings choose the maximum so that $\bar X = 1$, he should guess less since
+Obviously, lemming $ i $ should not choose $ x_i=1 $. Because even if all the other lemmings choose the maximum so that $ X = 1 $, he should guess less since
 
 $$
 \begin{equation*}
-\alpha < 1 \implies \alpha \bar X < 1.
+\alpha < 1 \implies \alpha \bar X < 1,
 \end{equation*}
 $$
 
-Some lemmings would definitely choose $ x_i = 1 $ in real life, though. But let's pretend all the lemmings are smart.
+where $\bar X $ represents the rational upperbound of $ X $. Some lemmings would definitely choose $ x_i = 1 $ in real life, though. But let's pretend all the lemmings are smart.
 
 Because the lemmings are smart and know all of this, each should instead choose
 
@@ -70,11 +70,11 @@ $$
 
 Right?
 
-If you said yes, you would not be a smart lemming. Because a smart lemming $ i $ would remember that every other other lemming $ j $ is smart too, and that he also know she should choose at most $ x_j \le \frac{2}{3} $. Not $ x_j > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $ \max \bar X^* \le \alpha $, where $ \max \bar X^* $ is the rational upperbound of the mean in equilibrium. And therefore, he should actually choose at most
+If you said yes, you would not be a smart lemming. Because a smart lemming $ i $ would remember that every other other lemming $ j $ is smart too, and that he also know she should choose at most $ x_j \le \frac{2}{3} $. Not $ x_j > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $ \max \bar X \le \alpha $. And therefore, he should actually choose at most
 
 $$
 \begin{equation*}
-x_i \le \alpha^2 \max \bar X^* \le \frac{4}{9}.
+x_i \le \alpha^2 \max \bar X \le \frac{4}{9}.
 \end{equation*}
 $$
 
@@ -86,7 +86,7 @@ By this logic, each lemming needs to infinitely undercut the ceiling for the tar
 
 $$
 \begin{equation*}
-x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \max \bar X^* = 0.
+x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \max \bar X = 0.
 \tag{solution}
 \end{equation*}
 $$
