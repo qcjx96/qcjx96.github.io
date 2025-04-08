@@ -9,8 +9,6 @@ image:
     alt: Trump and Trudeau engage in hand-shake wrestling.
 ---
 
-<center><b>(Work in progress)</b></center>
-
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
 
