@@ -78,7 +78,7 @@ But... all the other lemmings know this too.
 
 So he should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
 
-By this logic, he needs to infintely undercut the ceiling for the target $\bar x$. And since everyone else is also undecutting, $\bar x$ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose
+By this logic, he needs to infintely undercut the ceiling for the target $\alpha \bar x$. And since everyone else is also undecutting, $\alpha \bar x$ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose
 $$
 \begin{equation*}
 x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
