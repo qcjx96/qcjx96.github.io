@@ -10,7 +10,6 @@ image :
     alt : Christian from "The Celebration" holds up two speeches.
 ---
 
-<center><b>(Work in progress)</b></center>
 
 # Burnout
 <p style="color:MediumVioletRed;font-weight:bold;">(Explicit content)</p>
