@@ -26,11 +26,11 @@ But why did he target Canada first (alongside China and Mexico) before Liberatio
 
 It goes back to the 2019 G7 summit, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
-![Justin Trudeau and Melania Trump lean in for a kiss with Trump obliviously unaware of the seduction.](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
+![Justin and Melania](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4 "Justin Trudeau and Melania Trump lean in for a kiss with Trump obliviously unaware of the seduction.")
 
 The first daughter was not spared the Trudeau photo trap either. Following the PM's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka gazing at Justin with a pondering hand on her chin.
 
-![Ivanka looks at Trudeau with Trump-brand fuck-me eyes.](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
+![Justin and Ivanka](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578 "Ivanka looks at Trudeau with Trump-brand fuck-me eyes.")
 
 Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC.
 
