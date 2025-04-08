@@ -68,7 +68,7 @@ x_i \overset{?}{=} \alpha = \frac{2}{3}.
 $$
 Right?
 
-If you said yes, you would not be a smart lemming. Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $. Not $ x_i > \frac{2}{3} $ like a not-smart person. So a smart lemming knows that actually $\bar x \le \alpha$. And therefore, he should actually choose at most
+If you said yes, you would not be a smart lemming. Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $. Not $ x_i > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $\bar x \le \alpha$. And therefore, he should actually choose at most
 $$
 \begin{equation*}
 x_i \le \alpha^2 \bar x \le \frac{4}{9}.
