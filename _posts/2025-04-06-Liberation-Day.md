@@ -78,11 +78,11 @@ x_i \le \alpha^2 \bar x \le \frac{4}{9}.
 \end{equation*}
 $$
 
-But... all the other lemmings know this too.
+But... another lemming $j$ would know this too, and will also choose $x_j \le \frac{4}{9}$.
 
-So he should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
+So lemming $i$ should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
 
-By this logic, he needs to infintely undercut the ceiling for the target $ \alpha \bar x $. And since everyone else is also undecutting, $ \alpha \bar x $ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose
+By this logic, each lemming needs to infintely undercut the ceiling for the target $ \alpha \bar x $. And since everyone else is also undecutting, $ \alpha \bar x $ keeps collapsing. Thus by this process, you get the Nash equilibrium that all lemmings should choose
 
 $$
 \begin{equation*}
