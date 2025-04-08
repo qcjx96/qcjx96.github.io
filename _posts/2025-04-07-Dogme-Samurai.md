@@ -7,4 +7,4 @@ image :
     alt : Cherry blossoms in half bloom near my childhood home.
 ---
 
-## (Coming soon)
+<b><center>(coming soon)</center></b><br>
