@@ -25,7 +25,7 @@ Why do lemmings commit mass suicide? Why do they hurtle together to the point of
 
 ## Guess 2/3
 
-To illustrate, take the famouse game theory problem where lemmings try to ["guess two-thirds of the average"](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
+To illustrate, take the famouse game theory problem where lemmings try to [guess two-thirds of the average](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
 
 The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
