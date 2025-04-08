@@ -63,7 +63,6 @@ __Canada's Top Export Partners (2024)__
 
 Looking at trade through time, the share of US import to Canada has dropped by about 17 percentage points (from ~65% to ~48%) over the past 25 years. Imports from China and countries outside of Western Europe have picked up most of the difference.
 
-
 __Shares of Imports to Canada from Trade Partners__
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true){: .light}
 ![Figure](https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare-dark.png?raw=true){: .dark}
