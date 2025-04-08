@@ -25,24 +25,26 @@ Following the "Liberation Day" annoucement, the S&P500 dropped xx% in one day, w
 
 The question is then: why do stocks spaz out? Well, the financial markets&ndash;in my mind&ndash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-<center><b>Lemmings Jonestown</b></center>
-![Lemmings](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-LBS04EO7OmwIXvEF5LPDGuUOJ4vIq6_sw&s "Fuck fuck fuck"){: width="350"}
-
 Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's a lot of money to be made, they compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
 
 ## Guess 2/3
 
-To illustrate, take the famouse game theory problem where lemmings try to ["guess two-thirds of the average"](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of Yale lemmings playing this game.
+To illustrate, take the famouse game theory problem where lemmings try to ["guess two-thirds of the average"](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
 
 The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
-Suppose $ N > 1 $ lemmings, enumerated by $ i $, each guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Each lemming wins $x_i$ share of the prize if their guess is the closest to $\alpha=\frac{2}{3}$ of the average, 
+
+![Lemmings](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "A lemming"){: width="350"}
+
+Suppose $ N > 1 $ lemmings, enumerated by $ i $, each guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Each lemming wins if their guess is the closest to $\alpha=\frac{2}{3}$ of the average, 
+
 $$
 \begin{equation*}
 \bar x = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
 = \frac{1}{N} (x_1 + x_2 + ... + x_N).
 \end{equation*}
 $$
+
 The Nash equilibrium result is actually the same for any number $\alpha \in [0, 1)$ between zero and one. But anyway, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
@@ -52,23 +54,27 @@ $$
 $$
 
 Obviously, lemming $i$ should not choose $x_i=1$. Because even if all the other lemmings choose the maximum so that $\bar x = 1$, he should guess less because
+
 $$
 \begin{equation*}
 \alpha < 1 \implies \alpha \bar x < 1.
 \end{equation*}
 $$
 
-Some lemmings would definitely choose $x_i = 1$ in real life. But let's pretend all the lemmings are smart.
+Some lemmings would definitely choose $x_i = 1$ in real life, though. But let's pretend all the lemmings are smart.
 
 Because the lemmings are smart and know all of this, each should instead choose
+
 $$
 \begin{equation*}
 x_i \overset{?}{=} \alpha = \frac{2}{3}.
 \end{equation*}
 $$
+
 Right?
 
 If you said yes, you would not be a smart lemming. Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $. Not $ x_i > \frac{2}{3} $ like a dumb person. So a smart lemming knows that actually $\bar x \le \alpha$. And therefore, he should actually choose at most
+
 $$
 \begin{equation*}
 x_i \le \alpha^2 \bar x \le \frac{4}{9}.
@@ -80,12 +86,12 @@ But... all the other lemmings know this too.
 So he should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
 
 By this logic, he needs to infintely undercut the ceiling for the target $\alpha \bar x$. And since everyone else is also undecutting, $\alpha \bar x$ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose
+
 $$
 \begin{equation*}
 x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
 \tag{solution}
 \end{equation*}
 $$
-Okay, there are a lot of mixed metaphors in this example. But you get the point, right?* Even perfectly rational behaviour in groups can result in extreme outcomes.
 
-<p style="font-size:small;">*Don't worry. I'm not sure if I do, either.</p>
+Okay, there are a lot of mixed metaphors in this example. But it demonstrates a phenomenon where perfectly rational lemmings cause surprising and extreme outcomes. You get the point, right? (Don't worry, I don't either.)
