@@ -19,9 +19,9 @@ This got me thinking about why markets move so quickly. When bad news breaks, a 
 
 Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's better for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any real effects? Though the stock market was spassing out, global trade has not fallen sharply on the exact day of the annoucement.
 
-The question is then: why do the markets out? Well, the financial markets&ndash;in my mind&ndash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
+The question is then: why do the markets out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's a lot of money to be made, they compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
+Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's so much money to be made, they continually compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
 
 ## Guess 2/3
 
@@ -29,11 +29,11 @@ To illustrate, take the famouse game theory problem where lemmings try to ["gues
 
 The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
-<center><b>A mergers and acqusitions specialist</b></center>
+<center><b>A mergers-and-acqusitions specialist</b></center>
 ![Lemmings](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "A lemming"){: width="500"}
 
 
-Suppose $ N $ lemmings each enumerated by $ i $ guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Each lemming wins if their guess is the closest to $ \alpha=\frac{2}{3} $ of the average, 
+Suppose $ N $ lemmings each enumerated by $ i $ guess a number $ x_{i} \in [0, 1] $ from zero to one. Each lemming wins if their guess is the closest to $ \alpha=\frac{2}{3} $ of the average, 
 
 $$
 \begin{equation*}
@@ -42,7 +42,7 @@ $$
 \end{equation*}
 $$
 
-The Nash equilibrium result is actually the same for any number $ \alpha \in [0, 1) $ between zero and one. But anyway, the goal is to guess as close to the target as possible:
+Actually, the Nash equilibrium is zero for any number $ \alpha \in [0, 1) $ between zero and one. But anyway, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
     x_i \simeq \alpha \bar x.
