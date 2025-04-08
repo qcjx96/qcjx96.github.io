@@ -1,5 +1,5 @@
 ---
-title : Liberation Day and Beauty Contests
+title : Liberation Day and Lemmings
 description : Thoughts on markets after the news shock.
 date : 2025-04-06
 image :
@@ -28,25 +28,60 @@ The question is then: why do stocks spaz out? Well, the financial markets&ndash;
 
 Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's a lot of money to be made, they compete to undercut each other by slivers. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold hard logic.
 
-## Guess 2/3 with smart lemmings
+## Guess 2/3
 
-As an illustration, take the famouse game theory problem where lemmings try to ["guess two-thirds of the average"](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of Yale students playing this game.
+To illustrate, take the famouse game theory problem where lemmings try to ["guess two-thirds of the average"](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of Yale lemmings playing this game.
 
-The Nash equilibrium to this game is, surprisingly, that all player choose zero.
+The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
 
-Suppose $ N > 1 $ lemmings, enumerated by $ i $, each guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Lemmings win if their guess is the closest to $\alpha=\frac{2}{3}$ of the average $\bar x = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i.$ The Nash equilibrium result is actually the same for any number $\alpha \in [0, 1)$ between zero and one.
+Suppose $ N > 1 $ lemmings, enumerated by $ i $, each guess a number $ x_{i} \in [0, 1] $ from zero to one hundred. Lemmings win if their guess is the closest to $\alpha=\frac{2}{3}$ of the average, 
+$$
+\begin{equation*}
+\bar x = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
+= \frac{1}{N} (x_1 + x_2 + ... + x_N).
+\end{equation*}
+$$
+The Nash equilibrium result is actually the same for any number $\alpha \in [0, 1)$ between zero and one. But anyway, the goal is to guess  as close to the target as possible:
+$$
+\begin{equation}
+x_i \simeq \alpha \bar x.
+\tag{target}
+\end{equation}
+$$
 
-But anyway, the goal is to guess a $ x_i \in [0, 1]$ as close to the target $ \alpha \bar x$ as possible.
+Obviously, lemming $i$ should not choose $x_i=1$. Because even if all the other lemmings choose the maximum so that $\bar x = 1$, he should guess less because
+$$
+\begin{equation*}
+\alpha < 1 \implies \alpha \bar x < 1.
+\end{equation*}
+$$
 
-Obviously, lemming $i$ should not choose $x_i=1$. Because even if all the other lemmings choose the maximum so that $\bar x = 1$, it must be that $\alpha \bar x < 1$ since $\alpha = \frac{2}{3} < 1$.
+Some lemmings would definitely choose $x_i = 1$ in real life. But let's pretend all the lemmings are smart.
 
-Some lemmings would definitely choose $x_i = 1$ in real life. But let's pretend all the lemmings are smart. Because the lemmings are smart and know all of this, each should instead choose $ x_i = \frac{2}{3} $, right? If you said yes, you would not be a smart lemming.
+Because the lemmings are smart and know all of this, each should instead choose
+$$
+\begin{equation*}
+x_i \overset{?}{=} \alpha = \frac{2}{3}.
+\end{equation*}
+$$
+Right?
 
-Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $, and not $ x_i > \frac{2}{3} $ like a not-smart person.
+If you said yes, you would not be a smart lemming. Because a smart lemming would remember that all the other lemmings are smart too, and know that they should also choose at most $ x_i \le \frac{2}{3} $. Not $ x_i > \frac{2}{3} $ like a not-smart person. So a smart lemming knows that, actually, $\bar x \le \alpha$. And therefore, he should actually choose at most
+$$
+\begin{equation*}
+x_i \le \alpha^2 \bar x \le \frac{4}{9}.
+\end{equation*}
+$$
 
-So the smart lemming $i$ knows that actually, the mean should be less than $\bar x < \alpha$. And therefore, he should actually choose at most $x_i \le \alpha^2 = \frac{4}{9}$. But... all the other lemmings know this too.
+But... all the other lemmings know this too.
 
-So it should choose at most $ x_i \le \alpha^3 $, right? Yes. But it should also at most choose $ x_i \le \alpha^4 $. And again, and again...
+So he should choose at most $ x_i \le \alpha^3 $, right? Yes. But he should then also choose at most $ x_i \le \alpha^4 $, and so on...
 
-By this logic, it needs to infintely undercut the ceiling for the target $\bar x$. And since everyone else is also undecutting, $\bar x$ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose $x_i^* = \underset{\alpha \to \infty}{\lim}{\alpha}^n \bar X = 0$.
+By this logic, he needs to infintely undercut the ceiling for the target $\bar x$. And since everyone else is also undecutting, $\bar x$ keeps moving down. Thus by this process, you get the Nash equilibrium that all lemmings should choose
+$$
+\begin{equation*}
+x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
+\tag{solution}
+\end{equation*}
+$$
 
