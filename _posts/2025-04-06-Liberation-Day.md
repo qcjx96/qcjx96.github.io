@@ -1,5 +1,5 @@
 ---
-title : Liberation Day and Lemming Games
+title : Lemming Games on Liberation Day
 description : Thoughts on stock markets after the news shock.
 date : 2025-04-06
 categories : [journal, incoherent rant]
