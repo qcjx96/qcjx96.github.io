@@ -19,9 +19,11 @@ Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, 
 <center>Trump holds up tariffs poster like a kid showing off his piece-of-shit school project</center>
 ![Trump](https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F "Good at that shit-eating grin.")
 
-The question is then: why do the markets freak out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings, who sometime [jump off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
+The question is then: why do the markets freak out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings who in some situations [jump off cliffs en masse.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-Why do lemmings commit mass suicide? Why do they hurtle together to the point of falling off a cliff? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And with so much money to be made, they continuously compete to undercut or edge ahead of each other. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. The game is the game.
+Why do lemmings hurtle together to the point of commiting mass suicide? Well, it's just an [urban myth](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide) built on a hoax. But still, the myth may be an apt comparison. 
+
+Finance is a volume game, and Wall Street runs on fast money. With so much money to be made, people continually compete to edge ahead or undercut each other. This process sometimes results in the market "falling off the cliff." But it's not their fault. The game is the game.
 
 ## Guess 2/3
 
