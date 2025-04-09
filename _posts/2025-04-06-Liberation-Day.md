@@ -14,14 +14,14 @@ On Thursday I woke up to a message from my buddy. I checked the NYTimes app, and
 
 This got me thinking about why markets move so quickly. When bad news breaks, a sell-off is triggered, prices fall, and the valuation of the stock market falls&mdash;all in the blink of an eye.
 
-Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's better for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any real effects? Though the stock market was spassing out, global trade has not fallen sharply on the exact day of the annoucement.
+Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, which translates to a $xx billions valuation loss. But this money is not just gone. (Though some love to use the term "value destruction." It's good for clicks, I guess.) Though global trade will suffer a shock from the tariffs, and there may be production and job losses in result, does the annoucement have any immediate real effects? Though the stock market was spassing out, global trade has likely not fallen sharply on the exact day of the annoucement. I will try to verify this with data later.
 
 <center>Trump holds up tariffs poster like a kid showing off his piece-of-shit school project</center>
 ![Trump](https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/uncategorised/trump-and-reciprocal-tariffs-board_digital---seosocialeditorial-image.jpg?h=630&w=12&rev=6dc4d2243b654f65ab57c7d250c1de8d&hash=E73CBCF4AB7C623456C13FBACB6F696F "Good at that shit-eating grin.")
 
-The question is then: why do the markets out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings, who love to [fall off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
+The question is then: why do the markets freak out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings, who sometime [jump off cliffs together.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-Why do lemmings commit mass suicide? Why do they hurtle together to the point of jumping off cliffs? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's so much money to be made, they continually compete to undercut each other. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold, hard logic.
+Why do lemmings commit mass suicide? Why do they hurtle together to the point of falling off a cliff? Well first of all, [they don't](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide). Second, because it's a volume game, and Wall Street runs on fast money. And because there's so much money to be made, they continually compete to undercut each other. The result is the proverbial scene of "lemmings falling off cliffs." But it's not their fault. It's simply cold, hard logic.
 
 ## Guess 2/3
 
