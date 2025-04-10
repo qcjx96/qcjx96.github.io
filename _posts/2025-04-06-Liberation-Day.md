@@ -29,7 +29,7 @@ Finance is a volume game, and Wall Street runs on fast money. With so much money
 
 To illustrate, take the famouse game theory problem where lemmings try to [guess two-thirds of the average](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
 
-The Nash equilibrium to this game is, surprisingly, that all lemmings choose zero.
+The [Nash equilibrium](https://en.m.wikipedia.org/wiki/Nash_equilibrium) to this game is, surprisingly, that all lemmings choose zero.
 
 <center>A mergers and acqusitions advisor.</center>
 ![Lemming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/960px-Tunturisopuli_Lemmus_Lemmus.jpg "This little guy has a cocaine problem."){: width="500"}
@@ -44,10 +44,10 @@ X = \frac{1}{N} \overset{N}{\underset{i=1}{\sum}} x_i
 \end{equation*}
 $$
 
-Actually, the Nash equilibrium is $$ x_i^* = 0$$ for any $$ \alpha \in [0, 1) $$. But anyway, the goal is to guess as close to the target as possible:
+Once, the goal is to guess as close to the target as possible:
 $$
 \begin{equation}
-    x_i \simeq \alpha X.
+    x_i \to \alpha X.
 \tag{target}
 \end{equation}
 $$
@@ -84,7 +84,7 @@ But... another lemming $$ j $$ would know this too, and will also choose $$ x_j 
 
 So lemming $$ i $$ should choose at most $$ x_i \le \alpha^3 $$, right? Yes, but therefore $$ j $$ should choose this too. So then $$ i $$ should choose at most $$ x_i \le \alpha^4 $$, and so on...
 
-By this logic, each lemming should infinitely undercut the ceiling for the target $$ \alpha \bar X $$ by a factor of $$ \alpha $$. And since everyone else is also undecutting, the target value collapses. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get the Nash equilibrium that all lemmings should choose
+By this logic, each lemming should infinitely undercut the ceiling for the target $$ \alpha \bar X $$ by a factor of $$ \alpha $$. And since everyone else is also undecutting, the target value collapses. Thus by this [process](https://en.m.wikipedia.org/wiki/Strategic_dominance#Iterated_elimination_of_strictly_dominated_strategies), you get that all lemmings $$ i = 1, 2, ..., N $$ should eventually choose
 
 $$
 \begin{equation*}
@@ -93,8 +93,12 @@ x_i^* = \underset{n \to \infty}{\lim}{\alpha}^n \bar X = 0.
 \end{equation*}
 $$
 
-## Beauty contests
+In this scenario, no lemming can improve his outcome if he changes any other value $$ x_i > 0 $$. Otherwise they will be further from $$ \alpha \bar X $$ than the other lemmings choosing $$ x_j = 0 $$.
 
+This is the definition of a Nash equilibrium, which is $$ x_i^* = 0 $$ actually for any $$ \alpha \in [0, 1) $$ between zero and one.
+
+
+## Beauty contests
 
 <center>Three junior analysts at a private equity fund.</center>
 ![Lemmings](https://img.freepik.com/premium-photo/image-adorable-arctic-lemmings-key-prey-arctic-food-chain-concept-arctic-wildlife-lemmings-food-chain-ecosystem-animal-behavior_864588-70920.jpg?w=360 "They won't talk about what happened at the strip club last Friday.")
