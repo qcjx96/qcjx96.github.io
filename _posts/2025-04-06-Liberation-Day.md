@@ -21,13 +21,13 @@ Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, 
 
 The question is then: why do the markets freak out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings who in some situations [jump off cliffs en masse.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-Why do lemmings hurtle together to the point of commiting mass suicide? Well, it's just an [urban myth](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide) built on a hoax. But still, the myth may be an apt comparison. 
+Why do lemmings hurtle together to the point of commiting mass suicide? Well, it's just an [urban myth](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide) built on a hoax. But still, the myth still provides an apt metaphor. 
 
 Finance is a volume game, and Wall Street runs on fast money. With so much money to be made, people continually compete to edge ahead or undercut each other. This process sometimes results in the market "falling off the cliff." But it's not their fault. The game is the game.
 
 ## Guess 2/3
 
-To illustrate, take the famouse game theory problem where lemmings try to [guess two-thirds of the average](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
+To illustrate, take the famouse game theory problem where lemmings try to [guess two-thirds of the average guess](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average). Here's a [video](https://youtu.be/qQ3kFydI_xQ?si=g3JYD4cjU2KsYEAQ&t=2128) of lemmings at Yale playing this game.
 
 The [Nash equilibrium](https://en.m.wikipedia.org/wiki/Nash_equilibrium) to this game is, surprisingly, that all lemmings choose zero.
 
