@@ -15,6 +15,6 @@ Economics is a social science. It is not a "hard" science like physics and chemi
 
 I believe that economics is about people. Just as it is the work of journalists, psychologists, and social workers to understand an individual, it is the job of social scientists to study people in aggregate. To me, the most interesting topics within these fields are ultimately about people.
 
-This blog serves as a receptacle for my thoughts on these matters and others. I endeavor to express them as cogently as possible, but each piece will remain a work in progress. If an article is ever ready, I will publish it on social media and use it as the basis of my vlog.
+This blog serves as a receptacle for my thoughts on these matters and others. I endeavor to express them as cogently as possible, but many will remain a work in progress.
 
 All opinions are my own. Reader's discretion is advised.
