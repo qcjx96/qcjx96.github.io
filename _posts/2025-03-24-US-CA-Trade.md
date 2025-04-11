@@ -12,13 +12,15 @@ image:
 <!-- https://chirpy.cotes.page/posts/text-and-typography/ -->
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1#L102 -->
 
-Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be: for no good reason.
+When Donald Trump was being sworn into office for his second term, I was watching the broadcast at the bar "La Botticella" in Trastevere, Rome. I had just joined a company of strangers. A Midwestern US federal judge, an Ukrainian couple who ran a plastic film factory in Kiev, and a commercial airline pilot from Miami, Florida. We chattered beneath the processions playing out on the TV screens, with somewhat ominous pauses in-between conversations. But as the night went on, we started buying each other drinks and had a good time.
 
-His formal justifications hover around border security and the US trade deficit with Canada.
+Not two days later, on February 1st, Trump announced [blanket tariffs](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on China, Mexico, and Canada. Like everyone else, I was baffled and angry.
 
-The ongoing migrant crisis has resulted in growing number of unlawful crossings in the US-Canada border. However, last year, less than [one-tenth of unlawful migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/). Fentanyl coming from Canada is a non-issue. [Less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border amounted. Tariffs are a pointlessly belligerent taken upon an ally. 
+## Why? Just, why?
 
-Trump's scorn towards Canada's trade surplus with the US is also baffling, and based on a fundamentally flawed understanding of trade and balance of payments accounting. But who can blame him? Most people don't really understand it, including me. After all, he's only the President of the United States.
+Trump's "formal" justifications hovered around border security and the US trade deficit with Canada. The number of unlawful crossings at the US-Canada border has grown during the ongoing US migrant crisis. But less than [one-tenth of unlawful migrant crossings](https://thehub.ca/2024/11/30/although-canadas-u-s-border-has-one-unlawful-crossing-for-every-10-at-the-mexico-u-s-border-our-unlawful-crossings-have-nearly-doubled-in-the-last-two-years/). Fentanyl from Canada is a non-issue. [Less than 0.1% of fentanyl seized](https://www.canada.ca/en/privy-council/services/canada-fentanyl-czar/key-data.html) by US customs were at the US-Canadian border amounted. And these are problems that you'd think would be better addressed collaboratively. If you yell and make threats at your neighbour, I doubt they'd go out of their way to help keep your side of the street clean.
+
+On the economic side, Trump has made no secret of his scorn for the US trade deficit. Even though it's based on a flawed understanding of [international trade](https://www.youtube.com/watch?v=gZGWA5_xGjw&t=823s&ab_channel=PatrickBoyle). But who can blame him? Most people are not well-versed in balance of payment accounting, including me. After all, he's only the President of the United States.
 
 But why did he target Canada first (alongside China and Mexico) before Liberation Day? My pet theory is that he didn't like being cuckolded by Justin Trudeau.
 
@@ -26,11 +28,11 @@ But why did he target Canada first (alongside China and Mexico) before Liberatio
 
 It goes back to the 2019 G7 summit, which spawned a viral photo of Trudeau kissing First Lady Melania Trump while she held the President's hand. One French news outlet reporting on the exchange lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
-![Justin and Melania](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4 "Justin and Melania lean in for a kiss with Donald blissfully unaware of the seduction taking place.")
+![Justin and Melania](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4 "Justin Trudeau and Melania Trump lean in for a kiss.")
 
 The first daughter was not spared the Trudeau photo trap either. Following the PM's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka gazing at Justin with a pondering hand on her chin.
 
-![Justin and Ivanka](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578 "Ivanka looks at Justin with Trump-brand fuck-me eyes.")
+![Justin and Ivanka](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578 "Ivanka Trump looks at Justin Trudeau with f**k-me eyes.")
 
 Say what you will about Justin, our boy is handsome.
 
