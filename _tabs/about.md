@@ -17,4 +17,4 @@ I believe that economics is about people. Just as it is the work of journalists,
 
 This blog serves as a receptacle for my thoughts, on these matters and others. I endeavor to express them as cogently as possible, but each piece will remain a work in progress. If an article is ever ready, I will publish it on social media and use it as the basis of my vlog.
 
-All opinions expressed are my own. Reader's discretion is advised.
+All opinions are my own. Reader's discretion is advised.
