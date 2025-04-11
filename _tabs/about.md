@@ -9,10 +9,10 @@ order: 4
 
 Hi! I'm QCX.
 
-I'm an economist (sort of) who worked in academic research. I'm also a humanist, which basically means I love mankind. (Here is [Kurt Vonnegut](https://youtu.be/4_RUgnC1lm8?si=BDQEV-db7JAUGbn_&t=2118)&mdash;one of my favourite humanists&mdash;on the subject.) Therefore, I call myself a "human economist." It's a term I made up, though some have come up with [similar](https://en.wikipedia.org/wiki/Humanistic_economics) [ideas](https://en.wikipedia.org/wiki/Humanomics) before.
+I'm an economist (sort of) who worked in academic research. I'm also a humanist, which basically means I love mankind, even if it annoys me sometimes. (Here is [Kurt Vonnegut](https://youtu.be/4_RUgnC1lm8?si=BDQEV-db7JAUGbn_&t=2118)&mdash;one of my favourite humanists&mdash;on the subject.) Therefore, I call myself a "human economist." It's a term I made up, though some have come up with similar ideas before.
 
 I believe that economics is about people. Just as it is the work of journalists, psychologists, and social workers to understand an individual, it is the job of economists to study people in the aggregate, using the most rigorous methods they can. But within these methods are always&mdash;whether explicitly or implicitly&mdash;embedded assumptions about human behaviour and morality. That's why it's messy, and I think fascinating.
 
-This blog serves as a receptacle for my thoughts. I endeavor to express them as cogently as possible, but many will remain works in progress.
+This blog serves as a receptacle for my thoughts on these matters. I endeavor to express them as cogently as possible, but many will remain works in progress.
 
 All opinions are my own. Reader's discretion is advised.
