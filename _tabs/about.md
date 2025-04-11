@@ -9,12 +9,10 @@ order: 4
 
 Hi! I'm QCX.
 
-I'm an economist, sort of, who worked in academic research. I'm also a humanist, which basically means I love mankind. (Here is [Kurt Vonnegut](https://youtu.be/4_RUgnC1lm8?si=BDQEV-db7JAUGbn_&t=2118)&mdash;one of my favourite humanists&mdash;on the subject.) So I call myself an economic humanist. It's a term I made up, though some have come up with [similar](https://en.wikipedia.org/wiki/Humanistic_economics) [ideas](https://en.wikipedia.org/wiki/Humanomics) before.
+I'm an economist (sort of) who worked in academic research. I'm also a humanist, which basically means I love mankind. (Here is [Kurt Vonnegut](https://youtu.be/4_RUgnC1lm8?si=BDQEV-db7JAUGbn_&t=2118)&mdash;one of my favourite humanists&mdash;on the subject.) Therefore, I call myself a "human economist." It's a term I made up, though some have come up with [similar](https://en.wikipedia.org/wiki/Humanistic_economics) [ideas](https://en.wikipedia.org/wiki/Humanomics) before.
 
-Economics is a social science. It is not a "hard" science like physics and chemistry, though some may wish it were. Economists use the most rigorous methods they can, such as mathematics and statistics, to address questions about society. But within these methods are always embedded&mdash;whether explicitly or implicitly&mdash;assumptions about human behaviour and morality. That's why it's messy, and I think fascinating.
+I believe that economics is about people. Just as it is the work of journalists, psychologists, and social workers to understand an individual, it is the job of economists to study people in the aggregate, using the most rigorous methods they can. But within these methods are always&mdash;whether explicitly or implicitly&mdash;embedded assumptions about human behaviour and morality. That's why it's messy, and I think fascinating.
 
-I believe that economics is about people. Just as it is the work of journalists, psychologists, and social workers to understand an individual, it is the job of social scientists to study people in aggregate. To me, the most interesting topics within these fields are ultimately about people.
-
-This blog serves as a receptacle for my thoughts on these matters and others. I endeavor to express them as cogently as possible, but many will remain a work in progress.
+This blog serves as a receptacle for my thoughts on these matters. I endeavor to express them as cogently as possible, but many will remain works in progress.
 
 All opinions are my own. Reader's discretion is advised.
