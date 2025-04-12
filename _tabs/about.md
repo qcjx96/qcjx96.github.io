@@ -11,7 +11,7 @@ Hi! I'm QCX.
 
 I'm an economist (sort of) who worked in academic research. I'm also a humanist, which basically means I love mankind, even if it annoys me sometimes. (Here is [Kurt Vonnegut](https://youtu.be/4_RUgnC1lm8?si=BDQEV-db7JAUGbn_&t=2118)&mdash;one of my favourite humanists&mdash;on the subject.)
 
-I believe that economics is about people. Just as journalists, psychologists, and social workers try to understand individuals, economists study people in the aggregate using the most rigorous methods they can. But in these methods are always embedded (and sometimes hidden) assumptions about human behaviour and morality. That's why it's messy, and I think fascinating.
+I believe that economics is about people. It's a social science. Just as journalists, psychologists, and social workers work to understand individuals, social scientists study people in the aggregate, as rigorously as they can.
 
 This blog serves as a receptacle for my thoughts on these matters intermixed with personal writings. All opinions are my own. Some articles contain explicit content (18+).
 
