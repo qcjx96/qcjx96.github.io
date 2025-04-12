@@ -13,7 +13,7 @@ I'm an economist (sort of) who worked in academic research. I'm also a humanist,
 
 I believe that economics is about people. Just as journalists, psychologists, and social workers try to understand individuals, economists study people in the aggregate using the most rigorous methods they can. But in these methods are always embedded (and sometimes hidden) assumptions about human behaviour and morality. That's why it's messy, and I think fascinating.
 
-This blog serves as a receptacle for my thoughts on these matters, intermixed with personal writings. I endeavor to express them as cogently as possible, but many will remain works in progress.
+This blog serves as a receptacle for my thoughts on these matters intermixed with personal writings. I endeavor to express them as cogently as possible, but many will remain works in progress.
 
 All opinions are my own. Some articles contain explicit content (18+).
 
