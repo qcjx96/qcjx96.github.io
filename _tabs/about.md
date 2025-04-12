@@ -15,6 +15,6 @@ I believe that economics is about people. Just as journalists, psychologists, an
 
 This blog serves as a receptacle for my thoughts on these matters, intermixed with personal writings. I endeavor to express them as cogently as possible, but many will remain works in progress.
 
-All opinions are my own. Some contain explicit content (18+).
+All opinions are my own. Some articles contain explicit content (18+).
 
 If you'd like to chat or grab a coffee, send me an email at qcjx96[at]gmail.com. Just replace [at] with "@".
