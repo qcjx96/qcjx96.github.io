@@ -1,8 +1,8 @@
 ---
 title: PWYW Lessons
 layout: page
-icon: fas fa-question
-order: 5
+icon: fas fa-circle-question
+order: 1
 ---
 
 <!-- https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1826 -->
