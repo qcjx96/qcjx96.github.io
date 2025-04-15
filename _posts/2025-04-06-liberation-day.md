@@ -21,9 +21,9 @@ Following the "Liberation Day" announcement, the S&P500 dropped xx% in one day, 
 
 The question is then: why do the markets freak out? Well, the financial markets&mdash;in my mind&mdash;are full of Patagonia-vested lemmings who in some situations [jump off cliffs en masse.](https://www.youtube.com/watch?v=YNZ_K14iT-Q)
 
-Why do lemmings hurtle together to the point of commiting mass suicide? Well, it's just an [urban myth](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide) built on a hoax. But still, the myth still provides an apt metaphor. 
+Why do lemmings hurtle together to the point of commiting mass suicide? Well, it's just an [urban myth](https://www.britannica.com/story/do-lemmings-really-commit-mass-suicide) built on a hoax. But the myth is still an apt metaphor. 
 
-Finance is a volume game, and Wall Street runs on fast money. With so much money to be made, people continually compete to edge ahead or undercut each other. This process sometimes results in the market "falling off the cliff." But it's not their fault. The game is the game.
+Finance is a volume game, and Wall Street runs on fast money. With so much money to be made, people continually compete to edge ahead or undercut each other. This process sometimes results in the market "falling off the cliff." But it's not their fault. It's just the game.
 
 ## Guess 2/3
 
