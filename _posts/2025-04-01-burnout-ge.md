@@ -127,7 +127,7 @@ $$
 
 Assume that all profits made by the firm $$ \pi $$ are distributed to the household, though the households cannot directly control the firm's decisions (and therefore profit), so they take $$ \pi $$ as granted.
 
-The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $$ p C \le \pi + w L$, where $$p$ is the price of goods and $$w$ is the wage rate.
+The household's consumption costs cannot exceed their income from profits and labour, so they are subject to the budget constraint $$ p C \le \pi + w L $$, where $$ p $$ is the price of goods and $$ w $$ is the wage rate.
 
 Since we are in a one-period model, let's assume that the household consumes all their income, so that
 $$
@@ -147,7 +147,7 @@ $$
     \tag{Lagrangian}
 \end{equation}
 $$
-and the first-order derivatives with respect to the control variables ($ C, L $$) and the Lagrange $$ \lambda $$. The first order conditions are
+and the first-order derivatives with respect to the control variables ($$ C, L $$) and the Lagrange $$ \lambda $$. The first order conditions are
 $$
 \begin{align}
     \frac{\partial \mathcal{L}}{\partial C}
